@@ -8,52 +8,55 @@ export default {
 <template>
     <div class="container-fluid mt-5">
         <div class="row">
-            <div class="col-sm-6" style="background-color:#EFE7F4;">
-                <h2>Chi è il dott. Davide Bichelli</h2>
-                <p class="text-start">Benvenuti nel profilo del Dott. Davide Bichelli, dietista-nutrizionista con una
-                    vasta esperienza ospedaliera.
-                    La sua passione per la nutrizione è emersa durante gli studi in Nutrizione Umana e Dietetica, e da
-                    allora ha lavorato
-                    in diversi ospedali, trattando una varietà di condizioni mediche. Il Dott. Bichelli si impegna a
-                    promuovere una corretta alimentazione
-                    come chiave per la salute. Sul nostro sito, troverete preziosi consigli nutrizionali e piani alimentari
-                    personalizzati per migliorare la vostra
-                    salute e il vostro benessere attraverso la nutrizione. Siamo pronti ad accompagnarvi in questo percorso
-                    verso un corpo sano e una vita migliore.</p>
+            <div class="col-sm-6 rounded-end-1" style="background-color:#EFE7F4;">
+                <h2 class="mb-4">¡Bienvenido a mi pagina web!</h2>
+                <div class="text-start">
+                    <p>En nuestra comunidad, nos esforzamos por lograr un equilibrio saludable 
+                    entre peso, estética y tus compromisos diarios. Como dietista nutricionista, mi objetivo es 
+                    acompañarte en el camino hacia un estilo de vida más saludable y sostenible.</p>
+                    <p>Aquí, diseñamos planes de dieta personalizados que se ajustan a tus preferencias y horarios semanales. Creemos que una 
+                    alimentación saludable no solo se trata de alcanzar tus metas de peso, sino 
+                    también de disfrutar de alimentos deliciosos que te gusten y que se adapten a 
+                    tu estilo de vida.</p>
+                    <p>Trabajaremos juntos para crear un enfoque nutricional que sea práctico, sostenible y adaptado 
+                    a tus necesidades individuales. Estoy aquí para brindarte el apoyo y la orientación 
+                    que necesitas en tu viaje hacia una mejor salud y bienestar.</p>
+                    <span class="d-inline-block mt-1 mb-3 fw-semibold">¡Gracias por elegirnos para ser parte de tu camino hacia un estilo de vida más saludable!</span>
+                </div>
             </div>
-            <div class="col-sm-6">
-                <img src="Img/funzione-degli-alimenti.jpg" class="img-fluid" alt="funz_alimenti">
+            <div class="col-sm-6 rounded-start-2 my-back-img">
+
             </div>
         </div>
     </div>
-    <div class="container mt-3 mb-2">
+    <div class="container mt-5 mb-2">
         <h2 class="text-center pb-2">Aree di consulenza</h2>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                <div><i class="fa-solid fa-circle"></i></div>
-                <h4 class="text-center mb-2">Sottotitolo 1</h4>
-                <p class="my-justify-txt">
-                    Control del peso (Aumento/Pérdida), Recomposicion corporal y alcanzar tus objetivos esteticos
-                    Prevención y tratamiento de trastornos de comportamento alimentario (Anorexia y Bulimia Nerviosa)
-                    Nutrición en las Distintas Etapas de la vida (embarazo, niñez, adolescencia y adultez).
+                <div><i class="fa-regular fa-circle-down fa-xl text-success"></i></div>
+                <h5 class="text-center mt-1 mb-2 text-success">Dieta Personalizzata</h5>
+                <p class="fst-italic">
+                    Personalizziamo la tua dieta per adattarla al tuo stile di vita, alle tue preferenze e agli obiettivi di salute,
+                    rendendo il percorso verso il benessere una esperienza più naturale possibile.
                 </p>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                <div><i class="fa-solid fa-circle"></i></div>
-                <h4 class="text-center mb-2">Sottotitolo 2</h4>
-                <p class="my-justify-txt">
-                    Control del peso (Aumento/Pérdida), Recomposicion corporal y alcanzar tus objetivos esteticos
-                    Prevención y tratamiento de trastornos de comportamento alimentario (Anorexia y Bulimia Nerviosa)
-                    Nutrición en las Distintas Etapas de la vida (embarazo, niñez, adolescencia y adultez).
+                <div><i class="fa-regular fa-circle-down fa-xl text-success"></i></div>
+                <h5 class="text-center mt-1 mb-2 text-success">Antropometria per Sportivi</h5>
+                <p class="fst-italic">
+                    Ottimizza le tue performance sportive attraverso il nostro servizio 
+                    di antropometria, creando programmi nutrizionali mirati per migliorare la 
+                    tua resistenza e supportare il tuo rendimento atletico.
                 </p>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                <div><i class="fa-solid fa-circle"></i></div>
-                <h4 class="text-center mb-2">Sottotitolo 3</h4>
-                <p class="my-justify-txt">
-                    Control del peso (Aumento/Pérdida), Recomposicion corporal y alcanzar tus objetivos esteticos
-                    Prevención y tratamiento de trastornos de comportamento alimentario (Anorexia y Bulimia Nerviosa)
-                    Nutrición en las Distintas Etapas de la vida (embarazo, niñez, adolescencia y adultez).
+                <div><i class="fa-regular fa-circle-down fa-xl text-success"></i></div>
+                <h5 class="text-center mt-1 mb-2 text-success">Educazione Nutrizionale Pediatrica</h5>
+                <p class="fst-italic">
+                    L'educazione nutrizionale dedicata ai genitori è progettata per accompagnarvi durante il periodo di 
+                    gravidanza e lo svezzamento. Collaboriamo con voi per fornire consigli specifici, 
+                    incoraggiando abitudini alimentari positive fin dalla giovane età 
+                    del vostro bambino.
                 </p>
             </div>
         </div>
@@ -63,6 +66,11 @@ export default {
 
 <style scoped>
 
+.my-back-img {
+    background-image: url('../assets/background-home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .my-justify-txt {
     text-align: justify;
 }

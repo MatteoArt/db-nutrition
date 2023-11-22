@@ -1,0 +1,49 @@
+{
+    "title": "Come Leggere un'Etichetta Nutrizionale: Una Guida Pratica per una Scelta Informata",
+    "img": "",
+    "description": "La cucina sana è una forma d'arte e una scienza, che va al di là della preparazione di piatti gustosi. Imparare le basi di una cucina sana non solo contribuisce a migliorare il sapore dei pasti, ma promuove anche la salute generale e il benessere. In questa guida pratica, esploreremo le fondamenta essenziali per creare una cucina sana e sostenibile.",
+    "article_points": [
+      {
+        "id": 1,
+        "title": "Guarda le Dimensioni delle Porzioni",
+        "body": "Le informazioni sulla porzione sono il punto di partenza. Controlla la dimensione delle porzioni indicate sull'etichetta e confrontale con la quantità che mangi effettivamente. Questo ti aiuterà a calcolare con precisione l'apporto calorico e altri nutrienti."
+      },
+      {
+        "id": 2,
+        "title": "Calorie totali",
+        "body": "Le calorie forniscono l'energia di base. Controlla il numero di calorie totali per porzione. Questo è particolarmente importante se stai cercando di gestire il tuo peso."
+      },
+      {
+        "id": 3,
+        "title": "Contenuto di Grassi",
+        "body": "Verifica il tipo e la quantità di grassi presenti. Cerca di limitare l'assunzione di grassi saturi e trans, favorendo invece grassi monoinsaturi e polinsaturi. Tieni presente che non tutti i grassi sono uguali, e alcuni possono essere benefici per la salute."
+      },
+      {
+        "id": 4,
+        "title": "Zuccheri e Carboidrati",
+        "body": "Controlla la quantità di zuccheri totali e di carboidrati. Riduci l'assunzione di zuccheri aggiunti, poiché eccessi possono contribuire a problemi di salute. Inoltre, considera la presenza di fibre, che sono importanti per la digestione."
+      },
+      {
+        "id": 5,
+        "title": "Proteine",
+        "body": "Le proteine sono essenziali per la crescita e il mantenimento del corpo. Assicurati di avere una fonte adeguata di proteine nelle tue scelte alimentari."
+      },
+      {
+        "id": 6,
+        "title": "Sodio",
+        "body": "Il sodio è spesso sottovalutato. Monitora il contenuto di sodio, poiché eccessi possono contribuire a problemi di pressione arteriosa."
+      },
+      {
+        "id": 7,
+        "title": "Vitamine e Minerali",
+        "body": "Esamina la presenza di vitamine e minerali essenziali. Scegli alimenti che apportano benefici nutrienti al tuo corpo."
+      },
+      {
+        "id": 8,
+        "title": "Ingredienti",
+        "body": "Il listato degli ingredienti fornisce una visione dettagliata della composizione del prodotto. Gli ingredienti sono elencati in ordine di quantità decrescente. Se trovi ingredienti difficili da pronunciare, potrebbero essere additivi o conservanti, quindi fai attenzione."
+      }
+    ],
+    "conclusione": "Imparare a leggere le etichette nutrizionali è un passo fondamentale verso uno stile di vita più sano. Mantieni un'attenzione consapevole su ciò che mangi, e usa queste informazioni per fare scelte alimentari informate e sostenibili. Una dieta equilibrata è la chiave per una vita sana e piena di energia.",
+    "img_desc": null
+  }
