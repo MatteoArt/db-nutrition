@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Come Leggere un'Etichetta Nutrizionale: Una Guida Pratica per una Scelta Informata",
     "img": "",
-    "description": "La cucina sana è una forma d'arte e una scienza, che va al di là della preparazione di piatti gustosi. Imparare le basi di una cucina sana non solo contribuisce a migliorare il sapore dei pasti, ma promuove anche la salute generale e il benessere. In questa guida pratica, esploreremo le fondamenta essenziali per creare una cucina sana e sostenibile.",
+    "description": "Leggere attentamente le etichette nutrizionali è fondamentale per prendere decisioni consapevoli sulla nostra alimentazione. Un'etichetta nutrizionale fornisce informazioni essenziali sulla composizione e il valore nutrizionale di un prodotto alimentare. Ecco una guida pratica su come interpretare efficacemente le etichette nutrizionali per migliorare la tua consapevolezza alimentare.",
     "article_points": [
       {
         "id": 1,
@@ -51,52 +51,127 @@
   },
   {
     "id": 2,
-    "title": "Come Leggere un'Etichetta Nutrizionale: Una Guida Pratica per una Scelta Informata",
+    "title": "Fondamenta di una Cucina Sana: Guida Pratica per un Benessere Duraturo",
     "img": "",
     "description": "La cucina sana è una forma d'arte e una scienza, che va al di là della preparazione di piatti gustosi. Imparare le basi di una cucina sana non solo contribuisce a migliorare il sapore dei pasti, ma promuove anche la salute generale e il benessere. In questa guida pratica, esploreremo le fondamenta essenziali per creare una cucina sana e sostenibile.",
     "article_points": [
       {
         "id": 1,
-        "title": "Guarda le Dimensioni delle Porzioni",
-        "body": "Le informazioni sulla porzione sono il punto di partenza. Controlla la dimensione delle porzioni indicate sull'etichetta e confrontale con la quantità che mangi effettivamente. Questo ti aiuterà a calcolare con precisione l'apporto calorico e altri nutrienti."
+        "title": "Scelte di Ingredienti",
+        "body": [
+          {
+            "titolo": "Freschezza e Varietà",
+            "desc": "Opta per ingredienti freschi e variati. Frutta, verdura, cereali integrali e proteine magre dovrebbero costituire la base della tua dispensa. Scegli ingredienti di stagione per garantire la massima freschezza e sapore."
+          },
+          {
+            "titolo": "Evita gli Alimenti Processati",
+            "desc": "Limita l'uso di alimenti confezionati e processati. Questi spesso contengono additivi, conservanti e zuccheri aggiunti che possono compromettere la salute a lungo termine."
+          }
+        ]
       },
       {
         "id": 2,
-        "title": "Calorie totali",
-        "body": "Le calorie forniscono l'energia di base. Controlla il numero di calorie totali per porzione. Questo è particolarmente importante se stai cercando di gestire il tuo peso."
+        "title": "Metodi di Cottura Sani",
+        "body": [
+          {
+            "titolo": "Cottura al Vapore, Grigliatura, Arrosto",
+            "desc": "Preferisci metodi di cottura più sani come la cottura al vapore, la grigliatura o l'arrosto. Questi metodi preservano meglio i nutrienti degli alimenti rispetto alla frittura o alla cottura in eccesso di oli."
+          },
+          {
+            "titolo": "Limita l'Uso di Oli Saturi",
+            "desc": "Scambia gli oli saturi con opzioni più salutari come l'olio d'oliva extra vergine o l'olio di cocco. Limita l'uso di oli ad alto contenuto di grassi saturi."
+          }
+        ]
       },
       {
         "id": 3,
-        "title": "Contenuto di Grassi",
-        "body": "Verifica il tipo e la quantità di grassi presenti. Cerca di limitare l'assunzione di grassi saturi e trans, favorendo invece grassi monoinsaturi e polinsaturi. Tieni presente che non tutti i grassi sono uguali, e alcuni possono essere benefici per la salute."
+        "title": "Bilancio e Moderazione",
+        "body": [
+          {
+            "titolo": "Porzioni Moderatamente Controllate",
+            "desc": "Scegli porzioni moderate per evitare il sovraccarico calorico. Mangiare con consapevolezza e gustare ogni boccone può aiutarti a soddisfare il tuo corpo in modo sano."
+          },
+          {
+            "titolo": "Includi Tutti i Gruppi Alimentari",
+            "desc": "Assicurati di includere tutti i gruppi alimentari nelle tue preparazioni, garantendo un apporto nutrizionale equilibrato. Proteine, carboidrati, grassi sani e fibre dovrebbero essere parte integrante di ogni pasto."
+          }
+        ]
       },
       {
         "id": 4,
-        "title": "Zuccheri e Carboidrati",
-        "body": "Controlla la quantità di zuccheri totali e di carboidrati. Riduci l'assunzione di zuccheri aggiunti, poiché eccessi possono contribuire a problemi di salute. Inoltre, considera la presenza di fibre, che sono importanti per la digestione."
+        "title": " Riduci Sale e Zucchero",
+        "body": [
+          {
+            "titolo": "Scegli Alternative Salutari",
+            "desc": "Riduci l'uso eccessivo di sale, preferendo spezie, erbe aromatiche e condimenti naturali per dare sapore ai tuoi piatti."
+          },
+          {
+            "titolo": "Limita lo Zucchero Aggiunto",
+            "desc": "Riduci la quantità di zucchero aggiunto, preferendo dolcificanti naturali come miele o sciroppo d'acero. Riduci l'uso di bevande zuccherate."
+          }
+        ]
       },
       {
         "id": 5,
-        "title": "Proteine",
-        "body": "Le proteine sono essenziali per la crescita e il mantenimento del corpo. Assicurati di avere una fonte adeguata di proteine nelle tue scelte alimentari."
+        "title": "Organizzazione e Pianificazione",
+        "body": [
+          {
+            "titolo": "Pianificazione dei Pasti",
+            "desc": "Pianifica i tuoi pasti in anticipo per evitare scelte alimentari impulsiva. Questo ti aiuterà a mantenere una dieta equilibrata durante la settimana."
+          },
+          {
+            "titolo": "Prepara Cibi in Batch",
+            "desc": "Prepara pasti in batch per risparmiare tempo durante la settimana. Conserva cibi sani in frigorifero o freezer per opzioni veloci e salutari."
+          }
+        ]
+      }
+    ],
+    "conclusione": "Mettere in pratica queste basi della cucina sana non solo migliorerà il gusto dei tuoi piatti, ma avrà un impatto positivo sulla tua salute a lungo termine. La cucina sana è un investimento nel tuo benessere, un atto d'amore per il tuo corpo e la tua mente. Sperimenta, esplora e goditi il viaggio di creare e gustare pasti che nutrino e ispirino.",
+    "img_desc": null
+  },
+  {
+    "id": 3,
+    "title": "Navigare tra Le Difficoltà del Mangiare Sano Fuori Casa: Una Prospettiva Pratica",
+    "img": "",
+    "description": "Mangiare fuori casa è un piacere condiviso da molti, ma spesso questa esperienza può mettere a dura prova i nostri sforzi per mantenere una dieta sana. Ecco alcune ragioni comuni per cui è difficile mangiare in modo salutare quando ci troviamo al di fuori delle mura domestiche.",
+    "article_points": [
+      {
+        "id": 1,
+        "title": "Opzioni Limitate",
+        "body": "Le informazioni sulla porzione sono il punto di partenza. Controlla la dimensione delle porzioni indicate sull'etichetta e confrontale con la quantità che mangi effettivamente. Questo ti aiuterà a calcolare con precisione l'apporto calorico e altri nutrientiSpesso, i ristoranti e i luoghi di ristoro offrono un menù ricco di opzioni deliziose, ma non sempre equilibrate dal punto di vista nutrizionale. Le scelte spesso sono cariche di grassi saturi, zuccheri aggiunti e sale."
+      },
+      {
+        "id": 2,
+        "title": "Porzioni Eccessive",
+        "body": "I ristoranti tendono a servire porzioni più grandi rispetto a quelle che prepareremmo a casa. Questa abbondanza può portare a consumare più cibo di quanto il nostro corpo effettivamente richieda."
+      },
+      {
+        "id": 3,
+        "title": "Influenza Sociale",
+        "body": "Mangiare fuori spesso si accompagna a un aspetto sociale piacevole. Durante cene o eventi, la pressione sociale può indurci a scegliere opzioni meno salutari per adattarci all'atmosfera conviviale."
+      },
+      {
+        "id": 4,
+        "title": "Scelte di Convenienza",
+        "body": "La rapidità e la praticità sono spesso prioritizzate quando si mangia fuori casa. Questo può portare a preferire cibi pronti o fast food, che possono essere meno nutrienti."
+      },
+      {
+        "id": 5,
+        "title": "Mancanza di Trasparenza Nutrizionale",
+        "body": "I ristoranti non sempre forniscono informazioni nutrizionali dettagliate sulle loro preparazioni. Questa mancanza di trasparenza rende difficile valutare accuratamente l'apporto calorico e nutritivo dei piatti."
       },
       {
         "id": 6,
-        "title": "Sodio",
-        "body": "Il sodio è spesso sottovalutato. Monitora il contenuto di sodio, poiché eccessi possono contribuire a problemi di pressione arteriosa."
+        "title": "Le Trappole degli Spuntini",
+        "body": "Gli spuntini tra i pasti sono spesso fonte di calorie vuote quando si mangia fuori. Le tentazioni di dolci, patatine e altri snack possono essere difficili da resistere."
       },
       {
         "id": 7,
-        "title": "Vitamine e Minerali",
-        "body": "Esamina la presenza di vitamine e minerali essenziali. Scegli alimenti che apportano benefici nutrienti al tuo corpo."
-      },
-      {
-        "id": 8,
-        "title": "Ingredienti",
-        "body": "Il listato degli ingredienti fornisce una visione dettagliata della composizione del prodotto. Gli ingredienti sono elencati in ordine di quantità decrescente. Se trovi ingredienti difficili da pronunciare, potrebbero essere additivi o conservanti, quindi fai attenzione."
+        "title": "Difficoltà nel Mantenere Abitudini Salutari",
+        "body": "Lontano dalla comodità della propria cucina, mantenere abitudini alimentari sane può risultare una sfida. La mancanza di routine e la disponibilità limitata di cibi freschi possono contribuire a scelte alimentari meno equilibrate."
       }
     ],
-    "conclusione": "Imparare a leggere le etichette nutrizionali è un passo fondamentale verso uno stile di vita più sano. Mantieni un'attenzione consapevole su ciò che mangi, e usa queste informazioni per fare scelte alimentari informate e sostenibili. Una dieta equilibrata è la chiave per una vita sana e piena di energia.",
-    "img_desc": null
+    "conclusione": "Nonostante le sfide, mangiare fuori casa può essere una deliziosa esperienza senza compromettere completamente la salute. Una consapevolezza delle proprie scelte, la moderazione e la ricerca di opzioni più equilibrate possono aiutare a mantenere un bilancio tra il piacere di mangiare fuori e la salute generale. Con un po' di attenzione, è possibile godere di cibi deliziosi senza rinunciare ai benefici di una dieta sana.",
+    "img_desc": ""
   }
 ]
