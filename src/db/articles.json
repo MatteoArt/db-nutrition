@@ -2,7 +2,7 @@
     {
     "id": 1,
     "title": "Come Leggere un'Etichetta Nutrizionale: Una Guida Pratica per una Scelta Informata",
-    "img": "",
+    "img": "nutrition.jpg",
     "description": "Leggere attentamente le etichette nutrizionali è fondamentale per prendere decisioni consapevoli sulla nostra alimentazione. Un'etichetta nutrizionale fornisce informazioni essenziali sulla composizione e il valore nutrizionale di un prodotto alimentare. Ecco una guida pratica su come interpretare efficacemente le etichette nutrizionali per migliorare la tua consapevolezza alimentare.",
     "article_points": [
       {
@@ -52,7 +52,7 @@
   {
     "id": 2,
     "title": "Fondamenta di una Cucina Sana: Guida Pratica per un Benessere Duraturo",
-    "img": "",
+    "img": "cucina-sana.jpg",
     "description": "La cucina sana è una forma d'arte e una scienza, che va al di là della preparazione di piatti gustosi. Imparare le basi di una cucina sana non solo contribuisce a migliorare il sapore dei pasti, ma promuove anche la salute generale e il benessere. In questa guida pratica, esploreremo le fondamenta essenziali per creare una cucina sana e sostenibile.",
     "article_points": [
       {
@@ -132,7 +132,7 @@
   {
     "id": 3,
     "title": "Navigare tra Le Difficoltà del Mangiare Sano Fuori Casa: Una Prospettiva Pratica",
-    "img": "",
+    "img": "mangiare-sano-fuori-casa.jpg",
     "description": "Mangiare fuori casa è un piacere condiviso da molti, ma spesso questa esperienza può mettere a dura prova i nostri sforzi per mantenere una dieta sana. Ecco alcune ragioni comuni per cui è difficile mangiare in modo salutare quando ci troviamo al di fuori delle mura domestiche.",
     "article_points": [
       {
@@ -173,5 +173,69 @@
     ],
     "conclusione": "Nonostante le sfide, mangiare fuori casa può essere una deliziosa esperienza senza compromettere completamente la salute. Una consapevolezza delle proprie scelte, la moderazione e la ricerca di opzioni più equilibrate possono aiutare a mantenere un bilancio tra il piacere di mangiare fuori e la salute generale. Con un po' di attenzione, è possibile godere di cibi deliziosi senza rinunciare ai benefici di una dieta sana.",
     "img_desc": ""
+  },
+  {
+    "id": 4,
+    "title": "Navigare tra le Allergie e le Intolleranze Alimentari: Una Guida Completa",
+    "img": "allergie-alimentari.jpg",
+    "description": "Le allergie alimentari e le intolleranze sono due condizioni che possono influenzare significativamente la vita di chi ne è affetto, richiedendo attenzione e consapevolezza nell'approccio quotidiano all'alimentazione. In questo articolo, esploreremo le differenze tra le allergie alimentari e le intolleranze, come riconoscerle e come gestirle per condurre uno stile di vita sano e appagante.",
+    "article_points": [
+      {
+        "id": 1,
+        "title": "Allergie Alimentari",
+        "body": [
+          {
+            "titolo": "Definizione",
+            "desc": "Le allergie alimentari sono risposte immunitarie avverse a specifici alimenti o ingredienti. Il sistema immunitario reagisce e produce anticorpi contro sostanze normalmente innocue, causando una serie di sintomi che possono variare da lievi a gravi."
+          },
+          {
+            "titolo": "Sintomi Comuni",
+            "desc": "I sintomi possono includere prurito, gonfiore, eruzioni cutanee, difficoltà respiratorie, vomito e, in casi gravi, uno shock anafilattico che può essere potenzialmente letale."
+          },
+          {
+            "titolo": "Gestione",
+            "desc": "La gestione delle allergie alimentari implica l'evitare completamente il cibo scatenante. Le persone con allergie spesso portano con sé epinefrina (ad esempio, l'Epipen) per affrontare eventuali reazioni gravi."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Intolleranze Alimentari",
+        "body": [
+          {
+            "titolo": "Definizione",
+            "desc": "Le intolleranze alimentari sono spesso legate a difficoltà digestive piuttosto che a risposte immunitarie. Possono derivare da carenze enzimatiche o problemi nel sistema digestivo, rendendo difficile il corretto trattamento di determinati alimenti."
+          },
+          {
+            "titolo": "Sintomi Comuni",
+            "desc": "I sintomi includono disturbi gastrointestinali come gonfiore, diarrea, nausea e crampi addominali. Gli effetti possono verificarsi a distanza di tempo dopo l'assunzione del cibo incriminato."
+          },
+          {
+            "titolo": "Gestione",
+            "desc": "La gestione delle intolleranze spesso coinvolge l'identificazione e l'eliminazione degli alimenti scatenanti dalla dieta. L'uso di integratori enzimatici o trattamenti specifici può talvolta alleviare i sintomi."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Confronto",
+        "body": [
+          {
+            "titolo": "Tempi di Reazione",
+            "desc": "Le allergie spesso causano una risposta immediata, mentre le intolleranze possono provocare sintomi ritardati."
+          },
+          {
+            "titolo": "Sintomi",
+            "desc": "Gli effetti delle allergie coinvolgono spesso il sistema immunitario, mentre le intolleranze sono associate principalmente a disturbi digestivi."
+          },
+          {
+            "titolo": "Diagnosi",
+            "desc": "Le allergie possono essere diagnosticate con test allergologici, mentre le intolleranze sono spesso identificate attraverso eliminazioni dietetiche e monitoraggio dei sintomi."
+          }
+        ]
+      }
+    ],
+    "conclusione": "Sia le allergie alimentari che le intolleranze richiedono una gestione attenta della dieta per garantire benessere e salute. Consultare uno specialista è essenziale per ottenere una diagnosi accurata e un piano di gestione personalizzato. Con consapevolezza, comprensione e aderenza alle indicazioni del professionista della salute, chiunque possa vivere una vita piena e soddisfacente, navigando attraverso il mondo complesso e delizioso dell'alimentazione.",
+    "img_desc": null
   }
 ]
