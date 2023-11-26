@@ -22,10 +22,27 @@ export default {
             ],
             socials: [
                 {
-                    icon: '',
-                    link: ''
+                    icon: "logo-sito.png",
+                    link: "home"
+                },
+                {
+                    icon: "instagram.svg",
+                    link: "https://www.instagram.com/davide_nutricion/"
+                },
+                {
+                    icon: "whatsapp.svg",
+                    link: "https://wa.me/c/34685258938"
+                },
+                {
+                    icon: "linkedin-in.svg",
+                    link: "https://www.linkedin.com/in/davidebichelli/"
                 }
             ]
+        }
+    },
+    methods: {
+        getImagePath(img) {
+            return new URL(`../assets/${img}`, import.meta.url).href;
         }
     }
 }
@@ -34,7 +51,14 @@ export default {
 <template>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
+            <span v-for="social in socials">
+                <router-link v-if="social.icon=='logo-sito.png'" class="navbar-brand" :to="{ name: social.link }">
+                    <img :src="getImagePath(social.icon)" alt="logo" style="width: 130px;">
+                </router-link>
+                <a v-else :href="social.link" class="navbar-brand" target="_blank">
+                    <img :src="getImagePath(social.icon)" alt="social-icon" style="width: 20px;">
+                </a>
+            </span>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
