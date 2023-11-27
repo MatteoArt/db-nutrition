@@ -6,6 +6,8 @@ import AppBiografia from './pages/AppBiografia.vue'
 import AppArticles from './pages/AppArticles.vue'
 import AppContacts from './pages/AppContacts.vue'
 
+import SingleArticle from './pages/SingleArticle.vue'
+
 const router = createRouter({
     history: createWebHistory(),
     routes: [
@@ -23,6 +25,11 @@ const router = createRouter({
             path: '/articles',
             name: 'articles',
             component: AppArticles
+        },
+        {
+            path: '/article/:id',
+            name: 'single-article',
+            component: SingleArticle
         },
         {
             path: '/contacts',

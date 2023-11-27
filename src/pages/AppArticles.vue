@@ -34,7 +34,9 @@ export default {
                             {{ article.description }}
                         </p>
                         <div class="mt-auto">
-                            <a href="#" class="btn btn-success">Scopri di più</a>
+                            <router-link :to="{ name: 'single-article', params: { id: article.id} }" class="btn btn-outline-success rounded-pill">
+                                <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> Scopri di più
+                            </router-link>
                         </div>
                     </div>
                 </div>

@@ -49,7 +49,7 @@ export default {
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
         <div class="container-fluid">
             <span v-for="social in socials">
                 <router-link v-if="social.icon=='logo-sito.png'" class="navbar-brand" :to="{ name: social.link }">
