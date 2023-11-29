@@ -36,7 +36,10 @@ const router = createRouter({
             name: 'contacts',
             component: AppContacts
         }
-    ]
+    ],
+    scrollBehavior(to, from, savedPosition) {
+        return { top: 0 }
+    },
 });
 
 export { router };
