@@ -1,4 +1,5 @@
 <script>
+import { ref } from 'vue';
 import articles from '../db/articles.json';
 
 export default {
@@ -6,6 +7,7 @@ export default {
         return {
             articlesList: articles,
             searchForm: '',
+            paroleTrovate: [] //array che conterrà tutte le stringhe nel json che soddisfano la ricerca
         }
     },
     methods: {
@@ -16,19 +18,44 @@ export default {
             return new URL(`../assets/${img}`, import.meta.url).href;
         },
         searchTxt() {
-            const ricerca = this.searchForm;
-            console.log(ricerca);
+            //ad ogni nuova ricerca svuoto l'array contenente le stringhe trovate
+            this.paroleTrovate = [];
+            const ricerca = this.searchForm.trim().toLowerCase();
+            if (ricerca === '') {
+                return;
+            }
 
             //lista di tutti gli articoli dove effettuare la ricerca
             const article = this.articlesList;
 
-            //array che conterrà tutte le stringhe nel json che soddisfano la ricerca
-            let paroleTrovate = [];
 
             for (let i = 0; i < article.length; i++) {
-                console.log(article[i].title)
-                console.log(article[i].description)
+                if (article[i].title.toLowerCase().includes(ricerca)) {
+                    this.paroleTrovate.push(article[i].title);
+                }
+                if (article[i].description.toLowerCase().includes(ricerca)) {
+                    this.paroleTrovate.push(article[i].description);
+                }
             }
+            
+            setTimeout(() => {
+                for (const nameTag in this.$refs) {
+                    console.log(`${nameTag}: ${this.$refs[nameTag]}`)
+
+                    if (nameTag == 'finalDescription' || nameTag == 'finalTitle') {
+                        console.log(this.$refs[nameTag])
+
+                        //se l'elemento esiste nell'html
+                        if (this.$refs[nameTag][0]) {
+                            this.$refs[nameTag][0].scrollIntoView(
+                                {
+                                    behavior: 'smooth'
+                                }
+                            )
+                        }
+                    }
+                }
+            }, 500)
         }
     }
 }
@@ -46,20 +73,28 @@ export default {
                 <i class="fa-solid fa-magnifying-glass"></i>
             </span>
         </div>
-        <!-- !!! provvisorio !! -->
-        <span>Ricerca: {{ searchForm }}</span>
     </div>
 
     <div class="container mx-auto mt-4 mb-3">
         <div class="row row-gap-3">
-            <div class="col-md-6" v-for="article in articlesList">
+            <div class="col-md-6" v-for="(article , i) in articlesList">
                 <div class="card h-100">
                     <div class="my-img-container">
                         <img :src="getImagePath(article.img)" class="card-img-top" alt="img_info">
                     </div>
                     <div class="card-body d-flex flex-column">
-                        <h5 class="card-title fw-semibold"> {{ article.title }} </h5>
-                        <p class="card-text mt-3">
+                        <h5 v-if="paroleTrovate.includes(article.title)" class="card-title fw-semibold"
+                        :ref="paroleTrovate[paroleTrovate.length-1] == article.title ? 'finalTitle' : `title${i}`"> 
+                            <span class="bg-warning-subtle"> <span style="z-index: 10;position: relative;">{{ article.title }}</span> </span> 
+                        </h5>
+                        <h5 v-else class="card-title fw-semibold">
+                            {{ article.title }}
+                        </h5>
+                        <p v-if="paroleTrovate.includes(article.description)" class="card-text mt-3"
+                        :ref="paroleTrovate[paroleTrovate.length-1] == article.description ? 'finalDescription' : `description${i}`">
+                            <span class="bg-warning-subtle"> {{ article.description }} </span>
+                        </p>
+                        <p v-else class="card-text mt-3">
                             {{ article.description }}
                         </p>
                         <div class="mt-auto">
