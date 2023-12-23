@@ -2,7 +2,7 @@
     {
     "id": 1,
     "title": "Come Leggere un'Etichetta Nutrizionale: Una Guida Pratica per una Scelta Informata",
-    "img": "nutrition.jpg",
+    "img": "etichette.jpg",
     "description": "Leggere attentamente le etichette nutrizionali è fondamentale per prendere decisioni consapevoli sulla nostra alimentazione. Un'etichetta nutrizionale fornisce informazioni essenziali sulla composizione e il valore nutrizionale di un prodotto alimentare. Ecco una guida pratica su come interpretare efficacemente le etichette nutrizionali per migliorare la tua consapevolezza alimentare.",
     "article_points": [
       {
@@ -236,6 +236,26 @@
       }
     ],
     "conclusione": "Sia le allergie alimentari che le intolleranze richiedono una gestione attenta della dieta per garantire benessere e salute. Consultare uno specialista è essenziale per ottenere una diagnosi accurata e un piano di gestione personalizzato. Con consapevolezza, comprensione e aderenza alle indicazioni del professionista della salute, chiunque possa vivere una vita piena e soddisfacente, navigando attraverso il mondo complesso e delizioso dell'alimentazione.",
+    "img_desc": null
+  },
+  {
+    "id": 5,
+    "title": "Caffè e Benessere: Scopri i Segreti della Caffeina con il Nutrizionista",
+    "img": "caffè.webp",
+    "description": "Il caffè, bevanda amata in tutto il mondo, è un vero e proprio rituale quotidiano per molti. Tuttavia, oltre al suo irresistibile aroma e sapore, il caffè contiene anche la caffeina, una sostanza che può influenzare il nostro benessere in modi sorprendenti. In questo articolo, esploreremo insieme i segreti della caffeina sotto la guida esperta di un nutrizionista. Scopriremo come questa sostanza può impattare sulla tua salute e come integrarla in modo equilibrato nella tua dieta quotidiana.",
+    "article_points": [
+      {
+        "id": 1,
+        "title": "I Benefici Insospettati della Caffeina",
+        "body": "La caffeina non è solo un alleato per combattere la stanchezza. Il nutrizionista ci svelerà i benefici insospettati della caffeina, tra cui il suo potenziale impatto positivo sulla salute cardiovascolare e il suo ruolo nell'aumentare il metabolismo. Scopriremo come queste proprietà possono contribuire al tuo benessere generale."
+      },
+      {
+        "id": 2,
+        "title": "Dosaggio e Moderazione: Le Chiavi per un Consumo Salutare",
+        "body": "Un aspetto cruciale nella gestione della caffeina è il dosaggio corretto. Il nutrizionista ci guiderà attraverso le raccomandazioni di dosaggio giornaliero e fornirà suggerimenti pratici su come evitare il sovradosaggio. Impareremo anche a riconoscere i segnali del corpo per mantenere un consumo equilibrato e sostenibile nel tempo."
+      }
+    ],
+    "conclusione": "In conclusione, il caffè può essere un delizioso alleato per il tuo benessere, ma è essenziale adottare un approccio equilibrato al consumo di caffeina. Con la guida esperta del nutrizionista, avrai le conoscenze necessarie per integrare il caffè nella tua routine quotidiana in modo sano e consapevole. Scopri i segreti della caffeina e goditi tutti i benefici che questa bevanda iconica può offrire al tuo corpo e alla tua mente.",
     "img_desc": null
   }
 ]
