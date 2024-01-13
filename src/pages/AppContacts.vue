@@ -6,10 +6,9 @@ export default {
 </script>
 
 <template>
-    <h1 class="text-center mt-2">Contatti</h1>
+    <h1 class="text-center mt-2">Donde reservar?</h1>
     <div class="container mt-5">
         <div class="w-75 m-auto">
-            <h2 class="text-center mb-3">Studi medici</h2>
             <div class="row">
                 <div class="col-6">
                     <h4 class="text-start">Nexesalut</h4>
@@ -32,7 +31,7 @@ export default {
                 <i class="fa-brands fa-whatsapp wa-icon"></i>
                 <div>
                     <a href="https://wa.me/c/34685258938" class="fs-3" target="_blank">+34 685258938</a>
-                    <p>Prenotare una visita e consultare i prezzi</p>
+                    <p>Reservar una visita y consultar precios</p>
                 </div>
             </div>
         </div>

@@ -10,7 +10,7 @@ export default {
 <template>
 
      <footer class="bg-body-tertiary py-3 mt-4">
-        <div class="text-center text-footer">Tutti i diritti riservati - Davide Bichelli Nutrition @2023</div>
+        <div class="text-center text-footer">Todos los derechos reservados - Davide Bichelli Nutrition @2024</div>
      </footer>
 
 </template>

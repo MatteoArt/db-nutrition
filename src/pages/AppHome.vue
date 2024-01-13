@@ -52,40 +52,38 @@ export default {
         </div>
     </div>
     <div class="container mt-5 mb-2">
-        <h2 class="text-center pb-2">Aree di consulenza</h2>
+        <h2 class="text-center pb-2">Áreas de consultoría</h2>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                 <div><i class="fa-regular fa-circle-down fa-xl text-success"></i></div>
-                <h5 class="text-center mt-1 mb-2 text-success">Dieta Personalizzata</h5>
+                <h5 class="text-center mt-1 mb-2 text-success">Dieta personalizada</h5>
                 <p class="fst-italic">
-                    Personalizziamo la tua dieta per adattarla al tuo stile di vita, alle tue preferenze e agli obiettivi di
-                    salute,
-                    rendendo il percorso verso il benessere una esperienza più naturale possibile.
+                    Personalizamos tu dieta para adaptarla a tu estilo de vida, preferencias y objetivos de salud, haciendo
+                    que el camino hacia el bienestar sea una experiencia lo más natural posible.
                 </p>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                 <div><i class="fa-regular fa-circle-down fa-xl text-success"></i></div>
-                <h5 class="text-center mt-1 mb-2 text-success">Antropometria per Sportivi</h5>
+                <h5 class="text-center mt-1 mb-2 text-success">Antropometría para deportistas</h5>
                 <p class="fst-italic">
-                    Ottimizza le tue performance sportive attraverso il nostro servizio
-                    di antropometria, creando programmi nutrizionali mirati per migliorare la
-                    tua resistenza e supportare il tuo rendimento atletico.
+                    Optimiza tu rendimiento deportivo controlando la nutrición, hidratación y suplementación específica,
+                    crearemos programas nutricionales específicos para tu somatotipo, suportar la recuperacione y acercarte
+                    a tu objetivo.
                 </p>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                 <div><i class="fa-regular fa-circle-down fa-xl text-success"></i></div>
-                <h5 class="text-center mt-1 mb-2 text-success">Educazione Nutrizionale Pediatrica</h5>
+                <h5 class="text-center mt-1 mb-2 text-success">Educación nutricional pediátrica</h5>
                 <p class="fst-italic">
-                    L'educazione nutrizionale dedicata ai genitori è progettata per accompagnarvi durante il periodo di
-                    gravidanza e lo svezzamento. Collaboriamo con voi per fornire consigli specifici,
-                    incoraggiando abitudini alimentari positive fin dalla giovane età
-                    del vostro bambino.
+                    La educación nutricional para padres está diseñada para acompañarle durante el embarazo y el periodo de
+                    destete. Trabajamos con usted para proporcionarle consejos específicos, fomentando hábitos alimentarios
+                    positivos desde la temprana edad de su hijo.
                 </p>
             </div>
         </div>
     </div>
     <div class="container w-75 mx-auto mt-4 mb-3">
-        <h2 class="text-center pb-2">Ultimi Articoli</h2>
+        <h2 class="text-center pb-2">Ultimos articulos</h2>
         <div class="row row-gap-3">
             <div class="col-md-6" v-for="card in lastTwoArticles()">
                 <div class="card h-100">
@@ -98,7 +96,8 @@ export default {
                             {{ card.description }}
                         </p>
                         <div class="mt-auto">
-                            <router-link :to="{ name: 'single-article', params: { id: card.id} }" class="btn btn-outline-success rounded-pill">
+                            <router-link :to="{ name: 'single-article', params: { id: card.id } }"
+                                class="btn btn-outline-success rounded-pill">
                                 <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> Scopri di più
                             </router-link>
                         </div>

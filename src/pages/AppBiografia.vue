@@ -10,95 +10,104 @@ export default {
         <div class="row">
             <div class="col-12">
                 <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-                    <h2 class="mb-3">Chi è il dietista nutrizionista</h2>
+                    <h2 class="mb-3">Quién es el dietista-nutricionista?</h2>
                     <p>
-                        Un dietista nutrizionista è un esperto della salute dedicato 
-                        all'analisi e all'ottimizzazione della dieta e della 
-                        nutrizione per promuovere il benessere generale e trattare 
-                        specifiche condizioni di salute. Questo professionista ha 
-                        completato un percorso accademico approfondito, che di 
-                        solito include studi avanzati in scienze della nutrizione, 
-                        biologia, anatomia e fisiologia. Inoltre, molti dietisti 
-                        nutrizionisti hanno completato stage clinici o programmi di 
-                        residenza per acquisire esperienza pratica.
+                        Un dietista-nutricionista es un experto sanitario dedicado a analizar y optimizar la dieta y la
+                        nutrición para promover el bienestar general y tratar afecciones específicas. Este profesional ha
+                        completado un curso académico en profundidad, que suele incluir estudios avanzados en ciencias de la
+                        nutrición, biología, anatomía y fisiología. Además, muchos dietistas-nutricionistas han realizado
+                        prácticas clínicas o programas de residencia para adquirir experiencia práctica.
                     </p>
                     <p>
-                        Il ruolo del dietista nutrizionista è multifaceted. Non solo fornisce 
-                        consulenza e supporto personalizzato sulla dieta, ma educa anche gli 
-                        individui su principi alimentari sani e adatta i piani alimentari alle 
-                        esigenze specifiche di ciascun cliente. Questi professionisti lavorano 
-                        con pazienti di tutte le età e condizioni, aiutandoli a raggiungere obiettivi 
-                        di salute specifici, gestire condizioni mediche, migliorare le prestazioni 
-                        atletiche o semplicemente adottare uno stile di vita più sano attraverso 
-                        scelte alimentari consapevoli. Inoltre, sono spesso coinvolti in attività 
-                        di ricerca e nella promozione della salute attraverso programmi educativi 
-                        e iniziative comunitarie. In sintesi, un dietista nutrizionista è un 
-                        consulente esperto che gioca un ruolo cruciale nel guidare le persone 
-                        verso scelte alimentari più salutari e sostenibili.
+                        El papel del dietista-nutricionista es polifacético. No sólo proporcionan asesoramiento y apoyo
+                        dietéticos personalizados, sino que también educan a las personas en los principios de la
+                        alimentación sana y adaptan los planes dietéticos a las necesidades específicas de cada cliente.
+                        Estos profesionales trabajan con pacientes de todas las edades y condiciones, ayudándoles a alcanzar
+                        objetivos de salud específicos, controlar afecciones médicas, mejorar el rendimiento deportivo o
+                        simplemente adoptar un estilo de vida más sano mediante elecciones alimentarias conscientes. Además,
+                        suelen participar en actividades de investigación y promoción de la salud a través de programas
+                        educativos e iniciativas comunitarias. En resumen, un dietista-nutricionista es un asesor experto
+                        que desempeña un papel crucial a la hora de orientar a las personas hacia opciones alimentarias más
+                        sanas y sostenibles.
                     </p>
+                    <div class="d-flex gap-4 mt-5">
+                        <div class="img-container">
+                            <img src="../assets/biography.jpeg" class="img-fluid" alt="bio">
+                        </div>
+                        <div class="img-container">
+                            <img src="../assets/biography1.jpeg" class="img-fluid" alt="bio1">
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="col-sm-6 mt-5">
-                    <h4 class="mb-4">Formacion academica principal</h4>
-                    <ul class="my-list">
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Diplomado en Nutricion Humana y Dietetica - N.Col.: CAT000430</div>
-                        </li>
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Master in nutricion y deporte</div>
-                        </li>
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Certificacion en alimentazione pediatrica</div>
-                        </li>
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Certificazione in nutrizione</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-sm-6 mt-5">
-                    <h4 class="mb-4">Experiencia laboral</h4>
-                    <ul class="my-list">
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Sodexo dietista hospital</div>
-                        </li>
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Libero professionista osteo</div>
-                        </li>
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Libero professionista</div>
-                        </li>
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Teacher for classes of cooking</div>
-                        </li>
-                        <li class="d-flex align-items-center column-gap-4 my-2">
-                            <i class="fa-solid fa-check fa-lg my-check"></i>
-                            <div>Educador nutricional</div>
-                        </li>
-                    </ul>
-                </div>
+                <h4 class="mb-4">Formacion academica principal</h4>
+                <ul class="my-list">
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>Grado en Nutricion Humana y Dietetica 
+                            <a style="text-decoration: none;" href="https://www.ucam.edu/" target="_blank">(UCAM)</a>
+                            , colegiado CAT002361</div>
+                    </li>
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>TFG en Alimentacion Emotiva</div>
+                    </li>
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>Master en Nutricion Deportiva 
+                            <a style="text-decoration: none;" href="https://barcainnovationhub.fcbarcelona.com" target="_blank">(FC Barcelona)</a>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>Coach Nutricional (in progress)</div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-6 mt-5">
+                <h4 class="mb-4">Experiencia laboral</h4>
+                <ul class="my-list">
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>Dietista en Hospital</div>
+                    </li>
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>Nutricionista en consulta</div>
+                    </li>
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>Educacion nutricional para padres y madres</div>
+                    </li>
+                    <li class="d-flex align-items-center column-gap-4 my-2">
+                        <i class="fa-solid fa-check fa-lg my-check"></i>
+                        <div>Enseñante de cocina saludable</div>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
 </template>
 
 
 <style scoped>
-
 .my-check {
 
     &:hover {
         color: #247CFD;
     }
 }
+
 .my-list {
     list-style-type: none;
     padding: 0;
 }
+.img-container {
+    width: 300px;
+    height: 126.283px;
+    overflow: hidden;
+    border-radius: 15px;
+}
+
 </style>

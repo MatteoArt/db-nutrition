@@ -63,11 +63,11 @@ export default {
 </script>
 
 <template>
-    <h1 class="text-center">Articoli</h1>
+    <h1 class="text-center">Articulos</h1>
     <div>
         <div class="m-auto d-flex justify-content-center" style="width: 250px;">
             <input class="form-control border-end-0 rounded-end-0" 
-            type="text" placeholder="cerca..." v-model="searchForm" @keyup.enter="searchTxt">
+            type="text" placeholder="buscar..." v-model="searchForm" @keyup.enter="searchTxt">
             <span class="my-button border border-start-0 d-flex align-items-center px-3 rounded-end-2"
             @click="searchTxt">
                 <i class="fa-solid fa-magnifying-glass"></i>
