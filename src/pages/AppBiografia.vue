@@ -61,7 +61,7 @@ export default {
                     </li>
                     <li class="d-flex align-items-center column-gap-4 my-2">
                         <i class="fa-solid fa-check fa-lg my-check"></i>
-                        <div>Coach Nutricional (in progress)</div>
+                        <div>Coach Nutricional (en progreso)</div>
                     </li>
                 </ul>
             </div>
@@ -70,7 +70,7 @@ export default {
                 <ul class="my-list">
                     <li class="d-flex align-items-center column-gap-4 my-2">
                         <i class="fa-solid fa-check fa-lg my-check"></i>
-                        <div>Dietista en Hospital</div>
+                        <div>Dietista en Hospital con <a href="https://es.sodexo.com/home.html" style="text-decoration: none;" target="_blank">SODEXO</a></div>
                     </li>
                     <li class="d-flex align-items-center column-gap-4 my-2">
                         <i class="fa-solid fa-check fa-lg my-check"></i>

@@ -4,7 +4,7 @@ export default {
         return {
             navLinks: [
                 {
-                    link: 'Home',
+                    link: 'Inicio',
                     link_name: 'home'
                 },
                 {
