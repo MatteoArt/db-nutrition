@@ -4,7 +4,7 @@ export default {
         return {
             navLinks: [
                 {
-                    link: 'Home',
+                    link: 'Inicio',
                     link_name: 'home'
                 },
                 {
@@ -12,11 +12,11 @@ export default {
                     link_name: 'biografia'
                 },
                 {
-                    link: 'Articoli',
+                    link: 'Articulos',
                     link_name: 'articles',
                 },
                 {
-                    link: 'Contatti',
+                    link: 'Contactos',
                     link_name: 'contacts'
                 }
             ],
