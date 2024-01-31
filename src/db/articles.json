@@ -1,261 +1,87 @@
 [
     {
     "id": 1,
-    "title": "Come Leggere un'Etichetta Nutrizionale: Una Guida Pratica per una Scelta Informata",
-    "img": "etichette.jpg",
-    "description": "Leggere attentamente le etichette nutrizionali è fondamentale per prendere decisioni consapevoli sulla nostra alimentazione. Un'etichetta nutrizionale fornisce informazioni essenziali sulla composizione e il valore nutrizionale di un prodotto alimentare. Ecco una guida pratica su come interpretare efficacemente le etichette nutrizionali per migliorare la tua consapevolezza alimentare.",
+    "slug": "Desmitificando las grasas",
+    "title": "Desmitificando las grasas: las buenas y las que hay que evitar",
+    "img": "article1.jpg",
+    "description": "Nuestro primer artículo, 'Desmitificando las grasas', tiene como objetivo arrojar luz sobre un tema que a menudo se malinterpreta. Tras una breve introducción a los diferentes tipos de grasas, el artículo profundiza en la distinción entre grasas saturadas, insaturadas y trans, explicando cuáles son beneficiosas para la salud y cuáles deben limitarse. A través de ejemplos prácticos y consejos, se guiará a los lectores en la elección consciente de las grasas en su dieta diaria. Nuestro objetivo es proporcionar información clara y práctica para ayudar a las personas a integrar las grasas de forma equilibrada y saludable en su dieta.",
     "article_points": [
-      {
-        "id": 1,
-        "title": "Guarda le Dimensioni delle Porzioni",
-        "body": "Le informazioni sulla porzione sono il punto di partenza. Controlla la dimensione delle porzioni indicate sull'etichetta e confrontale con la quantità che mangi effettivamente. Questo ti aiuterà a calcolare con precisione l'apporto calorico e altri nutrienti."
-      },
-      {
-        "id": 2,
-        "title": "Calorie totali",
-        "body": "Le calorie forniscono l'energia di base. Controlla il numero di calorie totali per porzione. Questo è particolarmente importante se stai cercando di gestire il tuo peso."
-      },
-      {
-        "id": 3,
-        "title": "Contenuto di Grassi",
-        "body": "Verifica il tipo e la quantità di grassi presenti. Cerca di limitare l'assunzione di grassi saturi e trans, favorendo invece grassi monoinsaturi e polinsaturi. Tieni presente che non tutti i grassi sono uguali, e alcuni possono essere benefici per la salute."
-      },
-      {
-        "id": 4,
-        "title": "Zuccheri e Carboidrati",
-        "body": "Controlla la quantità di zuccheri totali e di carboidrati. Riduci l'assunzione di zuccheri aggiunti, poiché eccessi possono contribuire a problemi di salute. Inoltre, considera la presenza di fibre, che sono importanti per la digestione."
-      },
-      {
-        "id": 5,
-        "title": "Proteine",
-        "body": "Le proteine sono essenziali per la crescita e il mantenimento del corpo. Assicurati di avere una fonte adeguata di proteine nelle tue scelte alimentari."
-      },
-      {
-        "id": 6,
-        "title": "Sodio",
-        "body": "Il sodio è spesso sottovalutato. Monitora il contenuto di sodio, poiché eccessi possono contribuire a problemi di pressione arteriosa."
-      },
-      {
-        "id": 7,
-        "title": "Vitamine e Minerali",
-        "body": "Esamina la presenza di vitamine e minerali essenziali. Scegli alimenti che apportano benefici nutrienti al tuo corpo."
-      },
-      {
-        "id": 8,
-        "title": "Ingredienti",
-        "body": "Il listato degli ingredienti fornisce una visione dettagliata della composizione del prodotto. Gli ingredienti sono elencati in ordine di quantità decrescente. Se trovi ingredienti difficili da pronunciare, potrebbero essere additivi o conservanti, quindi fai attenzione."
-      }
+      "¿Alguna vez has escuchado que las grasas son el enemigo número uno de tu dieta? Es hora de disipar este mito y adoptar una perspectiva más equilibrada sobre el tema de las grasas dietéticas. Como nutricionista, mi objetivo es guiarte a través de un camino práctico y comprensible para ayudarte a tomar decisiones alimentarias más informadas.",
+      "Lo cierto es que las grasas no deben prohibirse, sino entenderse. Comencemos con las grasas saturadas. Las grasas saturadas, que se encuentran principalmente en alimentos como la carne y los lácteos, son importantes, pero como ocurre con muchas cosas, la moderación es la clave. Por lo tanto, sí a un buen trozo de carne, pero opta por cortes más magros y elige productos lácteos bajos en grasa para mantener tu corazón feliz.",
+      "Pasemos a los héroes anónimos de la historia de la alimentación: las grasas insaturadas. Estas grasas, que se encuentran en los aceites vegetales, los frutos secos y los aguacates, son tus aliadas en la lucha por la salud del corazón. No solo agregan sabor a sus comidas, sino que también ayudan a mantener sus arterias en forma. Hazte un favor y disfruta de las maravillas de los aceites vegetales y los bocadillos a base de nueces.",
+      "Ahora, en una nota más seria, tenemos que hablar de los malos de la situación: las grasas trans. Presentes en muchos alimentos procesados y fritos, estos son los que hay que evitar. Piense en papas fritas y galletas empaquetadas. Minimice estas tentaciones para mantener su salud en la parte superior de su lista de prioridades.",
+      "Pero la forma en que cocinas también afecta tu ingesta de grasas. Opte por métodos de cocción más saludables, como asar a la parrilla, hornear y cocinar al vapor. Estos no solo mantienen intactos los nutrientes, sino que también reducen la ingesta de grasas saturadas.",
+      "En la práctica, ¿qué debe hacer? No hay necesidad de renunciar a los placeres de la vida, como un buen plato de pasta o una rebanada de pastel. Todo es cuestión de equilibrio. Coma una variedad de alimentos, mantenga las porciones bajo control y tome decisiones conscientes. Es posible que se sorprenda de lo fácil que es incorporar grasas saludables en su dieta diaria sin sacrificar el sabor."
     ],
-    "conclusione": "Imparare a leggere le etichette nutrizionali è un passo fondamentale verso uno stile di vita più sano. Mantieni un'attenzione consapevole su ciò che mangi, e usa queste informazioni per fare scelte alimentari informate e sostenibili. Una dieta equilibrata è la chiave per una vita sana e piena di energia.",
-    "img_desc": ""
-  },
-  {
+    "conclusione": "En conclusión, la clave para desmitificar las grasas es abrazar la atención plena y la moderación. No hay que temer a las grasas; Conócelos y haz que trabajen a tu favor. Su salud es un viaje, no un destino, y cada elección cuenta. Elija sabiamente, disfrute de su comida y disfrute de su camino hacia una vida más saludable.",
+    "foot": "Con sabor y salud,\n Davide Bichelli\n Dietista-Nutricionista"
+  },{
     "id": 2,
-    "title": "Fondamenta di una Cucina Sana: Guida Pratica per un Benessere Duraturo",
-    "img": "cucina-sana.jpg",
-    "description": "La cucina sana è una forma d'arte e una scienza, che va al di là della preparazione di piatti gustosi. Imparare le basi di una cucina sana non solo contribuisce a migliorare il sapore dei pasti, ma promuove anche la salute generale e il benessere. In questa guida pratica, esploreremo le fondamenta essenziali per creare una cucina sana e sostenibile.",
+    "slug": "La Verdad sobre el Azúcar",
+    "title": "La Verdad sobre el Azúcar: Cómo Reducirlo en tu Dieta",
+    "img": "article2.webp",
+    "description": "Bienvenidos a un viaje hacia el entendimiento práctico del azúcar en tu dieta. Como nutricionista, entiendo las preocupaciones y desafíos que muchos enfrentan al intentar reducir el azúcar. En este artículo, compartiré consejos prácticos y accesibles sobre cómo tomar decisiones conscientes para disminuir tu consumo de azúcar y mejorar tu salud.",
     "article_points": [
-      {
-        "id": 1,
-        "title": "Scelte di Ingredienti",
-        "body": [
-          {
-            "titolo": "Freschezza e Varietà",
-            "desc": "Opta per ingredienti freschi e variati. Frutta, verdura, cereali integrali e proteine magre dovrebbero costituire la base della tua dispensa. Scegli ingredienti di stagione per garantire la massima freschezza e sapore."
-          },
-          {
-            "titolo": "Evita gli Alimenti Processati",
-            "desc": "Limita l'uso di alimenti confezionati e processati. Questi spesso contengono additivi, conservanti e zuccheri aggiunti che possono compromettere la salute a lungo termine."
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Metodi di Cottura Sani",
-        "body": [
-          {
-            "titolo": "Cottura al Vapore, Grigliatura, Arrosto",
-            "desc": "Preferisci metodi di cottura più sani come la cottura al vapore, la grigliatura o l'arrosto. Questi metodi preservano meglio i nutrienti degli alimenti rispetto alla frittura o alla cottura in eccesso di oli."
-          },
-          {
-            "titolo": "Limita l'Uso di Oli Saturi",
-            "desc": "Scambia gli oli saturi con opzioni più salutari come l'olio d'oliva extra vergine o l'olio di cocco. Limita l'uso di oli ad alto contenuto di grassi saturi."
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Bilancio e Moderazione",
-        "body": [
-          {
-            "titolo": "Porzioni Moderatamente Controllate",
-            "desc": "Scegli porzioni moderate per evitare il sovraccarico calorico. Mangiare con consapevolezza e gustare ogni boccone può aiutarti a soddisfare il tuo corpo in modo sano."
-          },
-          {
-            "titolo": "Includi Tutti i Gruppi Alimentari",
-            "desc": "Assicurati di includere tutti i gruppi alimentari nelle tue preparazioni, garantendo un apporto nutrizionale equilibrato. Proteine, carboidrati, grassi sani e fibre dovrebbero essere parte integrante di ogni pasto."
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "title": " Riduci Sale e Zucchero",
-        "body": [
-          {
-            "titolo": "Scegli Alternative Salutari",
-            "desc": "Riduci l'uso eccessivo di sale, preferendo spezie, erbe aromatiche e condimenti naturali per dare sapore ai tuoi piatti."
-          },
-          {
-            "titolo": "Limita lo Zucchero Aggiunto",
-            "desc": "Riduci la quantità di zucchero aggiunto, preferendo dolcificanti naturali come miele o sciroppo d'acero. Riduci l'uso di bevande zuccherate."
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Organizzazione e Pianificazione",
-        "body": [
-          {
-            "titolo": "Pianificazione dei Pasti",
-            "desc": "Pianifica i tuoi pasti in anticipo per evitare scelte alimentari impulsiva. Questo ti aiuterà a mantenere una dieta equilibrata durante la settimana."
-          },
-          {
-            "titolo": "Prepara Cibi in Batch",
-            "desc": "Prepara pasti in batch per risparmiare tempo durante la settimana. Conserva cibi sani in frigorifero o freezer per opzioni veloci e salutari."
-          }
-        ]
-      }
+      "El azúcar, ese dulce tentador que se encuentra en muchos de nuestros alimentos favoritos, puede ser un desafío cuando se trata de cuidar de nuestra salud. Reducir su consumo no significa renunciar al placer del sabor, sino aprender a equilibrar nuestras elecciones.",
+      "Comencemos por los refrescos y bebidas azucaradas. Optar por alternativas más saludables, como el agua con rodajas de frutas o infusiones, no solo reducirá tu consumo de azúcar sino que también te mantendrá hidratado. Un pequeño cambio que hace una gran diferencia.",
+      "Cuando se trata de alimentos procesados, la lectura de etiquetas es clave. Aprender a identificar términos como 'jarabe de maíz con alto contenido de fructosa' y 'azúcar añadido' te permitirá tomar decisiones más informadas. Prefiere alimentos más naturales y frescos siempre que sea posible.",
+      "El desayuno es un buen lugar para comenzar. En lugar de cereales endulzados, opta por avena con frutas frescas o yogur natural con miel. Estas elecciones te brindarán la dulzura que anhelas sin el exceso de azúcar. El hábito de leer las etiquetas se extiende a las opciones de bocadillos. Opta por frutas, nueces o yogur en lugar de barras energéticas procesadas que pueden contener azúcares ocultos. Pequeños cambios en tus bocadillos diarios pueden marcar una gran diferencia.",
+      "Un consejo importante es reducir gradualmente el azúcar en tu café o té. Al principio, puede parecer difícil, pero tu paladar se ajustará con el tiempo. Prueba endulzar con alternativas más saludables como la stevia o la miel."
     ],
-    "conclusione": "Mettere in pratica queste basi della cucina sana non solo migliorerà il gusto dei tuoi piatti, ma avrà un impatto positivo sulla tua salute a lungo termine. La cucina sana è un investimento nel tuo benessere, un atto d'amore per il tuo corpo e la tua mente. Sperimenta, esplora e goditi il viaggio di creare e gustare pasti che nutrino e ispirino.",
-    "img_desc": null
-  },
-  {
+    "conclusione": "En la cocina, experimenta con hierbas y especias para realzar el sabor de tus platos sin depender del azúcar. Aprender a disfrutar de la riqueza de los sabores naturales te permitirá reducir la necesidad de azúcares añadidos. Espero que estos consejos prácticos te ayuden en tu viaje hacia una dieta más equilibrada y saludable. Recuerda, se trata de pequeños cambios sostenibles que conducen a resultados duraderos. ¡Adelante, toma el control de tu ingesta de azúcar y descubre una vida más saludable y feliz!",
+    "foot": "Con salud y bienestar,\n Davide Bichelli\n Dietista-Nutricionista"
+  },{
     "id": 3,
-    "title": "Navigare tra Le Difficoltà del Mangiare Sano Fuori Casa: Una Prospettiva Pratica",
-    "img": "mangiare-sano-fuori-casa.jpg",
-    "description": "Mangiare fuori casa è un piacere condiviso da molti, ma spesso questa esperienza può mettere a dura prova i nostri sforzi per mantenere una dieta sana. Ecco alcune ragioni comuni per cui è difficile mangiare in modo salutare quando ci troviamo al di fuori delle mura domestiche.",
+    "slug": "Mitos y realidad sobre las dietas detox",
+    "title": "Mitos y realidad sobre las dietas 'detox': lo que dice la ciencia",
+    "img": "article3.jpg",
+    "description": "Nos sumergiremos en el intrigante mundo de las dietas 'detox' para separar los mitos de la realidad. A través de una breve introducción a los conceptos clave y una exploración detallada, proporcionaremos información clara y práctica para ayudarte a entender qué hay detrás de las populares dietas de desintoxicación y cómo abordarlas de manera informada.",
     "article_points": [
-      {
-        "id": 1,
-        "title": "Opzioni Limitate",
-        "body": "Le informazioni sulla porzione sono il punto di partenza. Controlla la dimensione delle porzioni indicate sull'etichetta e confrontale con la quantità che mangi effettivamente. Questo ti aiuterà a calcolare con precisione l'apporto calorico e altri nutrientiSpesso, i ristoranti e i luoghi di ristoro offrono un menù ricco di opzioni deliziose, ma non sempre equilibrate dal punto di vista nutrizionale. Le scelte spesso sono cariche di grassi saturi, zuccheri aggiunti e sale."
-      },
-      {
-        "id": 2,
-        "title": "Porzioni Eccessive",
-        "body": "I ristoranti tendono a servire porzioni più grandi rispetto a quelle che prepareremmo a casa. Questa abbondanza può portare a consumare più cibo di quanto il nostro corpo effettivamente richieda."
-      },
-      {
-        "id": 3,
-        "title": "Influenza Sociale",
-        "body": "Mangiare fuori spesso si accompagna a un aspetto sociale piacevole. Durante cene o eventi, la pressione sociale può indurci a scegliere opzioni meno salutari per adattarci all'atmosfera conviviale."
-      },
-      {
-        "id": 4,
-        "title": "Scelte di Convenienza",
-        "body": "La rapidità e la praticità sono spesso prioritizzate quando si mangia fuori casa. Questo può portare a preferire cibi pronti o fast food, che possono essere meno nutrienti."
-      },
-      {
-        "id": 5,
-        "title": "Mancanza di Trasparenza Nutrizionale",
-        "body": "I ristoranti non sempre forniscono informazioni nutrizionali dettagliate sulle loro preparazioni. Questa mancanza di trasparenza rende difficile valutare accuratamente l'apporto calorico e nutritivo dei piatti."
-      },
-      {
-        "id": 6,
-        "title": "Le Trappole degli Spuntini",
-        "body": "Gli spuntini tra i pasti sono spesso fonte di calorie vuote quando si mangia fuori. Le tentazioni di dolci, patatine e altri snack possono essere difficili da resistere."
-      },
-      {
-        "id": 7,
-        "title": "Difficoltà nel Mantenere Abitudini Salutari",
-        "body": "Lontano dalla comodità della propria cucina, mantenere abitudini alimentari sane può risultare una sfida. La mancanza di routine e la disponibilità limitata di cibi freschi possono contribuire a scelte alimentari meno equilibrate."
-      }
+      "¿Alguna vez has considerado una dieta 'detox' para resetear tu cuerpo? En este artículo, desentrañaremos los mitos y realidades que rodean a estas famosas dietas, brindándote una perspectiva basada en la ciencia y guiándote hacia decisiones alimentarias más informadas.",
+      "Primero, aclaremos el mito más común: la idea de que las dietas 'detox' eliminan toxinas de tu cuerpo de manera milagrosa. La realidad es que nuestro cuerpo tiene sistemas internos de desintoxicación altamente eficientes, como el hígado y los riñones. Una dieta equilibrada y saludable es fundamental para apoyar estos procesos naturales, y no necesitas una 'detox' extrema para lograrlo. Las dietas que se suelen vender como detox son simplemente hipocalóricas, que implican la reducción de la ingesta calórica para perder peso, el problema es que mas veces pueden llevar a deficiencias de micronutrientes si no se planifican adecuadamente. Micronutrientes como vitaminas y minerales son esenciales para el funcionamiento adecuado del cuerpo y desempeñan un papel crucial en diversas funciones fisiológicas. Por ejemplo:\n Anemia por deficiencia de Hierro: Puede causar fatiga, debilidad, palidez, falta de concentración y disminución de la capacidad para realizar actividades físicas.\nProblemas de visión por deficiencia de vit A: La deficiencia severa puede causar ceguera nocturna y aumentar el riesgo de infecciones oculares.\n Bocio y trastornos de la tiroides por deficiencia de Yodo: La deficiencia puede causar agrandamiento de la glándula tiroides y problemas en la función tiroidea.",
+      "Ahora, hablemos de otro mito frecuente: la pérdida de peso rápida y sostenida con las dietas 'detox'. Aunque es posible experimentar una disminución temporal de peso debido a la pérdida de agua y la restricción calórica, estos resultados suelen ser a corto plazo. La verdadera clave para una pérdida de peso saludable y sostenible radica en hábitos alimentarios a largo plazo y en la actividad física regular. Pasemos a la realidad de lo que una dieta 'detox' bien equilibrada podría incluir. En lugar de centrarse en jugos y ayunos extremos, considera aumentar el consumo de alimentos ricos en antioxidantes, como frutas y verduras, y mantener una hidratación adecuada. Estos hábitos pueden respaldar la salud general de tu cuerpo de manera más efectiva que seguir regímenes extremos y potencialmente perjudiciales."
     ],
-    "conclusione": "Nonostante le sfide, mangiare fuori casa può essere una deliziosa esperienza senza compromettere completamente la salute. Una consapevolezza delle proprie scelte, la moderazione e la ricerca di opzioni più equilibrate possono aiutare a mantenere un bilancio tra il piacere di mangiare fuori e la salute generale. Con un po' di attenzione, è possibile godere di cibi deliziosi senza rinunciare ai benefici di una dieta sana.",
-    "img_desc": ""
-  },
-  {
+    "conclusione": "Sin embargo, es fundamental señalar que no todas las dietas 'detox' son iguales, y algunas pueden carecer de los nutrientes necesarios para mantener una salud óptima. La ciencia respalda la idea de adoptar enfoques más equilibrados y sostenibles para mejorar la salud, en lugar de caer en promesas rápidas y soluciones mágicas. En resumen, desmitificar las dietas 'detox' implica separar la realidad de la ficción y adoptar enfoques basados en la ciencia para mejorar la salud. No hay atajos mágicos ni soluciones rápidas; el equilibrio y la consistencia son clave. Al elegir sabiamente y mantener la atención en tu bienestar a largo plazo, estarás en el camino correcto hacia una vida más saludable.",
+    "foot": "Con equilibrio y ciencia,\n Davide Bichelli\n Dietista-Nutricionista"
+  },{
     "id": 4,
-    "title": "Navigare tra le Allergie e le Intolleranze Alimentari: Una Guida Completa",
-    "img": "allergie-alimentari.jpg",
-    "description": "Le allergie alimentari e le intolleranze sono due condizioni che possono influenzare significativamente la vita di chi ne è affetto, richiedendo attenzione e consapevolezza nell'approccio quotidiano all'alimentazione. In questo articolo, esploreremo le differenze tra le allergie alimentari e le intolleranze, come riconoscerle e come gestirle per condurre uno stile di vita sano e appagante.",
+    "slug": "Estrategias para Mantener tu Plan Nutricional",
+    "title": "Fuera de Casa, Dentro de la Dieta: Estrategias para Mantener tu Plan Nutricional",
+    "img": "article4.jpg",
+    "description": "En nuestra ajetreada vida cotidiana, comer sano fuera de casa puede parecer un desafío, pero con algunos consejos prácticos, puedes mantener una alimentación equilibrada sin sacrificar tu salud. Aquí te dejo algunas sugerencias para lograrlo:",
     "article_points": [
-      {
-        "id": 1,
-        "title": "Allergie Alimentari",
-        "body": [
-          {
-            "titolo": "Definizione",
-            "desc": "Le allergie alimentari sono risposte immunitarie avverse a specifici alimenti o ingredienti. Il sistema immunitario reagisce e produce anticorpi contro sostanze normalmente innocue, causando una serie di sintomi che possono variare da lievi a gravi."
-          },
-          {
-            "titolo": "Sintomi Comuni",
-            "desc": "I sintomi possono includere prurito, gonfiore, eruzioni cutanee, difficoltà respiratorie, vomito e, in casi gravi, uno shock anafilattico che può essere potenzialmente letale."
-          },
-          {
-            "titolo": "Gestione",
-            "desc": "La gestione delle allergie alimentari implica l'evitare completamente il cibo scatenante. Le persone con allergie spesso portano con sé epinefrina (ad esempio, l'Epipen) per affrontare eventuali reazioni gravi."
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Intolleranze Alimentari",
-        "body": [
-          {
-            "titolo": "Definizione",
-            "desc": "Le intolleranze alimentari sono spesso legate a difficoltà digestive piuttosto che a risposte immunitarie. Possono derivare da carenze enzimatiche o problemi nel sistema digestivo, rendendo difficile il corretto trattamento di determinati alimenti."
-          },
-          {
-            "titolo": "Sintomi Comuni",
-            "desc": "I sintomi includono disturbi gastrointestinali come gonfiore, diarrea, nausea e crampi addominali. Gli effetti possono verificarsi a distanza di tempo dopo l'assunzione del cibo incriminato."
-          },
-          {
-            "titolo": "Gestione",
-            "desc": "La gestione delle intolleranze spesso coinvolge l'identificazione e l'eliminazione degli alimenti scatenanti dalla dieta. L'uso di integratori enzimatici o trattamenti specifici può talvolta alleviare i sintomi."
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Confronto",
-        "body": [
-          {
-            "titolo": "Tempi di Reazione",
-            "desc": "Le allergie spesso causano una risposta immediata, mentre le intolleranze possono provocare sintomi ritardati."
-          },
-          {
-            "titolo": "Sintomi",
-            "desc": "Gli effetti delle allergie coinvolgono spesso il sistema immunitario, mentre le intolleranze sono associate principalmente a disturbi digestivi."
-          },
-          {
-            "titolo": "Diagnosi",
-            "desc": "Le allergie possono essere diagnosticate con test allergologici, mentre le intolleranze sono spesso identificate attraverso eliminazioni dietetiche e monitoraggio dei sintomi."
-          }
-        ]
-      }
+      "Antes de salir, echa un vistazo al menú del restaurante en línea, no encontraras nada sano en un MC Donald, por habre, descuentos atractivos o otra cosa terminarà cominedo mas de lo que necesita. Opta por lugares que ofrezcan opciones saludables como ensaladas, proteínas magras y granos enteros. Esto te permitirá tomar decisiones más informadas y evitar impulsos poco saludables. No dudes en pedir como son cocinados algunos tipos de alimentos que te suenan raros. Acuerdate que siempre serà mejor comer meno que mas no dudes en compartir platos con amigos o pedir una porción más pequeña, disfruta de estar con tus amigos y piensa en que te estas ahorrando algo tambien en dinero. Prioriza alimentos ricos en nutrientes como verduras, frutas, proteínas magras y granos enteros. Estos alimentos proporcionan vitaminas, minerales y fibra esenciales para tu bienestar general. Donde hay que estar mas atentos? Salsas, aderezos y acompañamientos pueden sumar calorías innecesarias. Pide las salsas por separado, opta por aderezos bajos en grasa y considera sustituir las papas fritas por opciones más saludables como ensaladas o vegetales al vapor.",
+      "A veces, la sed puede confundirse con el hambre. Bebe agua antes y durante la comida para ayudar a controlar tus porciones y mantener tu cuerpo hidratado. Acuerdate de comer tambien entre comidas llevandote snacks saludables como frutas, frutos secos o yogur griego para evitar la tentación de opciones menos saludables cuando te asalte el hambre entre comidas. Este consejo vale para los que se encuentran dentro de los valores ideales de IMC y no tienen patologias o situaciones particulares, una comida a la semana totalmente libre que sea buffet o la cena de navidad, acuerdate que puede compensarla los dias siguientes, comiendo algo mas ligero o entrenando algo mas, serà algo natural que tu cuerpo te piderà. En nuestra vida diaria, la rapidez y la conveniencia a menudo se imponen como factores determinantes al elegir qué comer. Los alimentos procesados han ganado popularidad gracias a su accesibilidad y tiempo de preparación reducido. Sin embargo, es crucial entender los motivos detrás de su atractivo, así como sus implicaciones para la salud. Una de las razones fundamentales por las que los alimentos procesados son tan apreciados es su conveniencia. La vida moderna nos exige ritmos acelerados, y la industria alimentaria ha respondido ofreciendo opciones listas para consumir o fáciles de preparar. La rapidez con la que se pueden adquirir y consumir estos productos se alinea perfectamente con los estilos de vida ocupados y las demandas constantes de nuestro tiempo.",
+      "Además, los alimentos procesados a menudo tienen una duración de almacenamiento más prolongada gracias a métodos de conservación, lo que facilita la planificación de las comidas y la gestión de las existencias en el hogar. Esta característica resulta especialmente útil para aquellos que buscan minimizar desperdicios y simplificar la logística alimentaria. No obstante, es crucial abordar las consideraciones nutricionales asociadas con los alimentos procesados. Muchos de estos productos contienen cantidades significativas de azúcares añadidos, grasas saturadas y sodio, lo que puede contribuir a problemas de salud a largo plazo, como la obesidad, la diabetes y enfermedades cardiovasculares. Los alimentos procesados se han vuelto tan atractivos debido a su conveniencia y duración de almacenamiento. No obstante, es imperativo equilibrar esta comodidad con una atención cuidadosa a la calidad nutricional. La clave reside en hacer elecciones informadas y buscar alternativas que ofrezcan tanto practicidad como beneficios para la salud, garantizando así una dieta equilibrada y sostenible a largo plazo."
     ],
-    "conclusione": "Sia le allergie alimentari che le intolleranze richiedono una gestione attenta della dieta per garantire benessere e salute. Consultare uno specialista è essenziale per ottenere una diagnosi accurata e un piano di gestione personalizzato. Con consapevolezza, comprensione e aderenza alle indicazioni del professionista della salute, chiunque possa vivere una vita piena e soddisfacente, navigando attraverso il mondo complesso e delizioso dell'alimentazione.",
-    "img_desc": null
+    "conclusione": "Mantener una dieta equilibrada fuera de casa no tiene por qué ser complicado. Con un poco de planificación y toma de decisiones consciente, puedes disfrutar de tus salidas sin comprometer tu salud. ¡Recuerda que cada elección cuenta!",
+    "foot": "Con sabor y salud,\n Davide Bichelli\n Dietista-Nutricionista"
   },
   {
     "id": 5,
-    "title": "Caffè e Benessere: Scopri i Segreti della Caffeina con il Nutrizionista",
-    "img": "caffè.webp",
-    "description": "Il caffè, bevanda amata in tutto il mondo, è un vero e proprio rituale quotidiano per molti. Tuttavia, oltre al suo irresistibile aroma e sapore, il caffè contiene anche la caffeina, una sostanza che può influenzare il nostro benessere in modi sorprendenti. In questo articolo, esploreremo insieme i segreti della caffeina sotto la guida esperta di un nutrizionista. Scopriremo come questa sostanza può impattare sulla tua salute e come integrarla in modo equilibrato nella tua dieta quotidiana.",
+    "slug": "Exploremos juntos las etiquetas nutricionales",
+    "title": "Exploremos juntos las etiquetas nutricionales: una guía práctica",
+    "img": "article5.jpg",
+    "description": "En el mundo acelerado de hoy, es esencial tomar decisiones alimentarias informadas. Las etiquetas nutricionales son la clave para entender lo que comemos. Este artículo proporcionará una guía práctica sobre cómo interpretar las etiquetas, lo que le ayudará a tomar decisiones más informadas para su salud. La Organización Mundial de la Salud (OMS) y otras instituciones han ayudado a elaborar directrices universalmente aceptadas para la información nutricional. En muchas jurisdicciones, existen leyes específicas que exigen que se incluyan datos como calorías, grasas, azúcares y proteínas en las etiquetas.",
     "article_points": [
-      {
-        "id": 1,
-        "title": "I Benefici Insospettati della Caffeina",
-        "body": "La caffeina non è solo un alleato per combattere la stanchezza. Il nutrizionista ci svelerà i benefici insospettati della caffeina, tra cui il suo potenziale impatto positivo sulla salute cardiovascolare e il suo ruolo nell'aumentare il metabolismo. Scopriremo come queste proprietà possono contribuire al tuo benessere generale."
-      },
-      {
-        "id": 2,
-        "title": "Dosaggio e Moderazione: Le Chiavi per un Consumo Salutare",
-        "body": "Un aspetto cruciale nella gestione della caffeina è il dosaggio corretto. Il nutrizionista ci guiderà attraverso le raccomandazioni di dosaggio giornaliero e fornirà suggerimenti pratici su come evitare il sovradosaggio. Impareremo anche a riconoscere i segnali del corpo per mantenere un consumo equilibrato e sostenibile nel tempo."
-      }
+      "Las etiquetas nutricionales son como un mapa del mundo de tu dieta diaria. Comencemos con el tamaño de las porciones. Estos datos, que a menudo se pasan por alto, establecen la base para comprender el resto de la información. La ley también establece los criterios para nombrar y clasificar los ingredientes. La industria alimentaria está obligada a cumplir con estas regulaciones, y las infracciones pueden dar lugar a sanciones significativas. Esto ayuda a mantener un mercado alimentario más transparente y responsable, al tiempo que protege la salud de los consumidores. La lista de ingredientes es la puerta de entrada a la comprensión de cualquier producto. Aquí, los ingredientes se enumeran en orden descendente de cantidad. ¿El primer ingrediente es un enigma? Opta por productos con listas de ingredientes más cortas y comprensibles. Menos procesamiento suele traducirse en más beneficios para tu salud. Evita aquellos con una lista interminable de aditivos y conservantes.",
+      "Primer consejo, no te centres en las calorías, indican la energía que aporta el producto, es un valor aproximado, un mismo alimento por ejemplo cocido o crudo daría como resultado el mismo número de calorías, pero las que absorbemos cambian por completo. Las calorías son la suma simple de las macros (carbohidratos, proteínas, grasas) que se enumeran a continuación. Continúa examinando los hidratos de carbono: de forma sencilla y práctica, presta atención a la fibra, cuanto más alta sea menos procesada será el producto y más saciante, beneficiosa para la digestión, a diferencia de los azúcares, que deben controlarse para evitar picos glucémicos. Más allá de eso, mira las grasas, que se dividen en saturadas e insaturadas. Trate de limitar su consumo de grasas saturadas eligiendo ingredientes ligeros, por ejemplo, mientras que las grasas insaturadas, como las que se encuentran en el pescado, por ejemplo, son valiosas para la salud del corazón. El sodio es otro componente crítico. Demasiados alimentos envasados contienen cantidades excesivas de sal, ligadas a problemas cardiovasculares, consideramos un producto alto en sodio cuando supera los 1,25g/100g de producto, por lo que si no quieres limitarte en la elección de productos envasados tendrás que hacerlo en el añadido a la tabla, recuerda que las recomendaciones de la OMS están por debajo de los 5g/diario e incluso inferiores para personas con hipertensión arterial u otros factores de riesgo de problemas cardiovasculares."
     ],
-    "conclusione": "In conclusione, il caffè può essere un delizioso alleato per il tuo benessere, ma è essenziale adottare un approccio equilibrato al consumo di caffeina. Con la guida esperta del nutrizionista, avrai le conoscenze necessarie per integrare il caffè nella tua routine quotidiana in modo sano e consapevole. Scopri i segreti della caffeina e goditi tutti i benefici che questa bevanda iconica può offrire al tuo corpo e alla tua mente.",
-    "img_desc": null
+    "conclusione": "Leer las etiquetas nutricionales es una habilidad fundamental para adoptar un estilo de vida saludable. Esta guía le ha brindado las herramientas para interpretar la información y tomar decisiones más informadas con respecto a los alimentos que pone en su carrito de compras. Recuerda, tu salud es la suma de tus elecciones diarias. Armado con el conocimiento, está listo para guiar su camino hacia un bienestar duradero.",
+    "foot": "Con sabor y salud,\n Davide Bichelli\n Dietista-Nutricionista"
+  },
+  {
+    "id": 6,
+    "slug": "Conectar con la Comida para Nutrir el Cuerpo y la Mente",
+    "title": "Mindful Eating: Conectar con la Comida para Nutrir el Cuerpo y la Mente",
+    "img": "article6.jpg",
+    "description": "¿Te has preguntado alguna vez qué significa realmente comer con conciencia? Mindful eating, o alimentación consciente, no es solo una tendencia, sino una práctica que puede transformar tu relación con la comida y tu bienestar general. Como nutricionista, quiero guiarte a través de algunos consejos prácticos para incorporar el mindful eating en tu vida diaria.",
+    "article_points": [
+      "El mindfulness implica enfocarse intencionalmente en los pensamientos, emociones y sensaciones físicas en el momento presente, promoviendo la conciencia en lugar de reacciones automáticas ante la situación y las elecciones. Han demostrado tener efectos psicologicos importantes, lo importante seria combinarla con la educacion nutricional, consciente es tambien reconocer alimentos sanos de malos, conocer los nutrientes, los tipos de proteinas mas saludables, como cocinar de manera atractiva y sana las verduras, etc...\nLa alimentación consciente implica utilizar todos los sentidos físicos y emocionales para experimentar y disfrutar de las elecciones alimenticias. Este enfoque no solo aumenta la gratitud por la comida, sino que también mejora la experiencia general de comer. La alimentación consciente se centra en las experiencias alimenticias, las sensaciones corporales relacionadas y los pensamientos y sentimientos sobre la comida, con una atención plena y sin juicio. El objetivo es promover una experiencia de comida más placentera y comprensión del entorno alimenticio. Un modelo propuesto por Fung y sus colegas se guía por cuatro aspectos: qué comer, por qué elegimos lo que comemos, cuánto comer y cómo hacerlo.",
+      "La alimentación consciente implica:\nConsiderar el espectro completo de la comida: de dónde proviene, cómo se preparó y quién la preparó.\nNotar señales internas y externas que afectan la cantidad que comemos.\nObservar cómo se ve, sabe, huele y siente la comida en nuestro cuerpo mientras comemos.\nReconocer cómo se siente el cuerpo después de comer.\nExpresar gratitud por la comida.\nReflexionar sobre cómo nuestras elecciones alimenticias afectan nuestro entorno local y global.",
+      "Complementar al Mindful eating, la Educación Nutricional desempeña un papel crucial en la prevención de enfermedades relacionadas con la dieta, como la diabetes y la obesidad. Al promover una alimentación consciente y equilibrada, se contribuye a forjar hábitos saludables que perduran a lo largo de la vida. Los programas educativos pueden abordar no solo el qué, sino también el cómo comemos, fomentando prácticas como comer lentamente, disfrutar de cada bocado y reconocer las señales de saciedad. En el contexto actual, donde la información sobre nutrición puede resultar abrumadora, la educación nutricional se convierte en un faro guía. Aprender a discernir entre mitos y hechos nutricionales es esencial para evitar la desinformación y tomar decisiones conscientes. Los beneficios de la educación nutricional se extienden más allá del individuo, impactando positivamente en la salud comunitaria y, en última instancia, en la sociedad en su conjunto. La educación nutricional emerge como un pilar fundamental en la búsqueda de un bienestar integral. Este proceso no solo implica transmitir conocimientos sobre los grupos alimenticios y las propiedades nutricionales, sino también cultivar una relación saludable con la comida. La importancia de la educación nutricional radica en su capacidad para empoderar a las personas, brindándoles las herramientas necesarias para tomar decisiones informadas sobre su alimentación."
+    ],
+    "conclusione": "La alimentación consciente no pretende reemplazar tratamientos para condiciones clínicas severas como trastornos alimentarios. Sin embargo, al combinarla con estrategias conductuales y conocimientos nutricionales, puede ser una herramienta valiosa para reducir el riesgo de enfermedades crónicas, mejorar la experiencia alimentaria y fomentar una imagen corporal saludable.",
+    "foot": "Con sabor y salud,\n Davide Bichelli\n Dietista-Nutricionista"
   }
 ]

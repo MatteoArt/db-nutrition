@@ -100,7 +100,7 @@ export default {
                         <div class="mt-auto">
                             <router-link :to="{ name: 'single-article', params: { id: article.id } }"
                                 class="btn btn-outline-success rounded-pill">
-                                <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> Scopri di più
+                                <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> Descubre mas
                             </router-link>
                         </div>
                     </div>
