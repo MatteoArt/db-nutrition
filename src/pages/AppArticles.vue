@@ -98,7 +98,7 @@ export default {
                             {{ article.description }}
                         </p>
                         <div class="mt-auto">
-                            <router-link :to="{ name: 'single-article', params: { id: article.id } }"
+                            <router-link :to="{ name: 'single-article', params: { slug: article.slug } }"
                                 class="btn btn-outline-success rounded-pill">
                                 <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> Descubre mas
                             </router-link>

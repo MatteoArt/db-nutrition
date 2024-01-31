@@ -27,7 +27,7 @@ const router = createRouter({
             component: AppArticles
         },
         {
-            path: '/article/:id',
+            path: '/article/:slug',
             name: 'single-article',
             component: SingleArticle
         },

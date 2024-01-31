@@ -9,13 +9,13 @@ export default {
     },
     methods: {
         getSingleArticle() {
-            const articleId = this.$route.params.id;
+            const articleSlug = this.$route.params.slug;
 
-            //ciclo sull'array di articoli per trovare quello che corrisponde all'id passato
+            //ciclo sull'array di articoli per trovare quello che corrisponde allo slug passato
             for (let i = 0; i < articles.length; i++) {
                 let article = articles[i];
 
-                if (article.id == articleId) {
+                if (article.slug == articleSlug) {
                     this.singleArticle = article;
                     break;
                 }
@@ -44,12 +44,12 @@ export default {
         <div class="w-50 my-container-img">
             <img :src="getImagePath(singleArticle.img)" class="img-fluid" alt="cover-article">
         </div>
-        <p v-for="point in singleArticle.article_points" class="mt-4">{{ point }}</p>
+        <p v-for="point in singleArticle.article_points" class="mb-2" style="white-space: pre-line;">{{ point }}</p>
         <div class="mt-5">
             <h4>Conclusiones</h4>
             <p>{{ singleArticle.conclusione }}</p>
         </div>
-        <div class="mt-3">
+        <div class="mt-3" style="white-space: pre-line;">
             {{ singleArticle.foot }}
         </div>
     </div>

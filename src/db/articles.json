@@ -1,12 +1,12 @@
 [
     {
     "id": 1,
-    "slug": "Desmitificando las grasas",
+    "slug": "desmitificando-las-grasas",
     "title": "Desmitificando las grasas: las buenas y las que hay que evitar",
     "img": "article1.jpg",
     "description": "Nuestro primer artículo, 'Desmitificando las grasas', tiene como objetivo arrojar luz sobre un tema que a menudo se malinterpreta. Tras una breve introducción a los diferentes tipos de grasas, el artículo profundiza en la distinción entre grasas saturadas, insaturadas y trans, explicando cuáles son beneficiosas para la salud y cuáles deben limitarse. A través de ejemplos prácticos y consejos, se guiará a los lectores en la elección consciente de las grasas en su dieta diaria. Nuestro objetivo es proporcionar información clara y práctica para ayudar a las personas a integrar las grasas de forma equilibrada y saludable en su dieta.",
     "article_points": [
-      "¿Alguna vez has escuchado que las grasas son el enemigo número uno de tu dieta? Es hora de disipar este mito y adoptar una perspectiva más equilibrada sobre el tema de las grasas dietéticas. Como nutricionista, mi objetivo es guiarte a través de un camino práctico y comprensible para ayudarte a tomar decisiones alimentarias más informadas.",
+      "¿Alguna vez has escuchado que las grasas son el enemigo número uno de tu dieta? Es hora de disipar este mito y adoptar una perspectiva más equilibrada sobre el tema de las grasas dietéticas. Como nutricionista, mi objetivo es guiarte a través de un camino práctico y comprensible para ayudarte a tomar decisiones alimentarias más informadas.?",
       "Lo cierto es que las grasas no deben prohibirse, sino entenderse. Comencemos con las grasas saturadas. Las grasas saturadas, que se encuentran principalmente en alimentos como la carne y los lácteos, son importantes, pero como ocurre con muchas cosas, la moderación es la clave. Por lo tanto, sí a un buen trozo de carne, pero opta por cortes más magros y elige productos lácteos bajos en grasa para mantener tu corazón feliz.",
       "Pasemos a los héroes anónimos de la historia de la alimentación: las grasas insaturadas. Estas grasas, que se encuentran en los aceites vegetales, los frutos secos y los aguacates, son tus aliadas en la lucha por la salud del corazón. No solo agregan sabor a sus comidas, sino que también ayudan a mantener sus arterias en forma. Hazte un favor y disfruta de las maravillas de los aceites vegetales y los bocadillos a base de nueces.",
       "Ahora, en una nota más seria, tenemos que hablar de los malos de la situación: las grasas trans. Presentes en muchos alimentos procesados y fritos, estos son los que hay que evitar. Piense en papas fritas y galletas empaquetadas. Minimice estas tentaciones para mantener su salud en la parte superior de su lista de prioridades.",
@@ -17,7 +17,7 @@
     "foot": "Con sabor y salud,\n Davide Bichelli\n Dietista-Nutricionista"
   },{
     "id": 2,
-    "slug": "La Verdad sobre el Azúcar",
+    "slug": "la-verdad-sobre-el-azúcar",
     "title": "La Verdad sobre el Azúcar: Cómo Reducirlo en tu Dieta",
     "img": "article2.webp",
     "description": "Bienvenidos a un viaje hacia el entendimiento práctico del azúcar en tu dieta. Como nutricionista, entiendo las preocupaciones y desafíos que muchos enfrentan al intentar reducir el azúcar. En este artículo, compartiré consejos prácticos y accesibles sobre cómo tomar decisiones conscientes para disminuir tu consumo de azúcar y mejorar tu salud.",
@@ -32,7 +32,7 @@
     "foot": "Con salud y bienestar,\n Davide Bichelli\n Dietista-Nutricionista"
   },{
     "id": 3,
-    "slug": "Mitos y realidad sobre las dietas detox",
+    "slug": "mitos-y-realidad-sobre-las-dietas-detox",
     "title": "Mitos y realidad sobre las dietas 'detox': lo que dice la ciencia",
     "img": "article3.jpg",
     "description": "Nos sumergiremos en el intrigante mundo de las dietas 'detox' para separar los mitos de la realidad. A través de una breve introducción a los conceptos clave y una exploración detallada, proporcionaremos información clara y práctica para ayudarte a entender qué hay detrás de las populares dietas de desintoxicación y cómo abordarlas de manera informada.",
@@ -45,7 +45,7 @@
     "foot": "Con equilibrio y ciencia,\n Davide Bichelli\n Dietista-Nutricionista"
   },{
     "id": 4,
-    "slug": "Estrategias para Mantener tu Plan Nutricional",
+    "slug": "estrategias-para-mantener-tu-plan-nutricional",
     "title": "Fuera de Casa, Dentro de la Dieta: Estrategias para Mantener tu Plan Nutricional",
     "img": "article4.jpg",
     "description": "En nuestra ajetreada vida cotidiana, comer sano fuera de casa puede parecer un desafío, pero con algunos consejos prácticos, puedes mantener una alimentación equilibrada sin sacrificar tu salud. Aquí te dejo algunas sugerencias para lograrlo:",
@@ -59,7 +59,7 @@
   },
   {
     "id": 5,
-    "slug": "Exploremos juntos las etiquetas nutricionales",
+    "slug": "exploremos-juntos-las-etiquetas-nutricionales",
     "title": "Exploremos juntos las etiquetas nutricionales: una guía práctica",
     "img": "article5.jpg",
     "description": "En el mundo acelerado de hoy, es esencial tomar decisiones alimentarias informadas. Las etiquetas nutricionales son la clave para entender lo que comemos. Este artículo proporcionará una guía práctica sobre cómo interpretar las etiquetas, lo que le ayudará a tomar decisiones más informadas para su salud. La Organización Mundial de la Salud (OMS) y otras instituciones han ayudado a elaborar directrices universalmente aceptadas para la información nutricional. En muchas jurisdicciones, existen leyes específicas que exigen que se incluyan datos como calorías, grasas, azúcares y proteínas en las etiquetas.",
@@ -72,13 +72,13 @@
   },
   {
     "id": 6,
-    "slug": "Conectar con la Comida para Nutrir el Cuerpo y la Mente",
+    "slug": "conectar-con-la-comida-para-nutrir-el-cuerpo-y-la-mente",
     "title": "Mindful Eating: Conectar con la Comida para Nutrir el Cuerpo y la Mente",
     "img": "article6.jpg",
     "description": "¿Te has preguntado alguna vez qué significa realmente comer con conciencia? Mindful eating, o alimentación consciente, no es solo una tendencia, sino una práctica que puede transformar tu relación con la comida y tu bienestar general. Como nutricionista, quiero guiarte a través de algunos consejos prácticos para incorporar el mindful eating en tu vida diaria.",
     "article_points": [
       "El mindfulness implica enfocarse intencionalmente en los pensamientos, emociones y sensaciones físicas en el momento presente, promoviendo la conciencia en lugar de reacciones automáticas ante la situación y las elecciones. Han demostrado tener efectos psicologicos importantes, lo importante seria combinarla con la educacion nutricional, consciente es tambien reconocer alimentos sanos de malos, conocer los nutrientes, los tipos de proteinas mas saludables, como cocinar de manera atractiva y sana las verduras, etc...\nLa alimentación consciente implica utilizar todos los sentidos físicos y emocionales para experimentar y disfrutar de las elecciones alimenticias. Este enfoque no solo aumenta la gratitud por la comida, sino que también mejora la experiencia general de comer. La alimentación consciente se centra en las experiencias alimenticias, las sensaciones corporales relacionadas y los pensamientos y sentimientos sobre la comida, con una atención plena y sin juicio. El objetivo es promover una experiencia de comida más placentera y comprensión del entorno alimenticio. Un modelo propuesto por Fung y sus colegas se guía por cuatro aspectos: qué comer, por qué elegimos lo que comemos, cuánto comer y cómo hacerlo.",
-      "La alimentación consciente implica:\nConsiderar el espectro completo de la comida: de dónde proviene, cómo se preparó y quién la preparó.\nNotar señales internas y externas que afectan la cantidad que comemos.\nObservar cómo se ve, sabe, huele y siente la comida en nuestro cuerpo mientras comemos.\nReconocer cómo se siente el cuerpo después de comer.\nExpresar gratitud por la comida.\nReflexionar sobre cómo nuestras elecciones alimenticias afectan nuestro entorno local y global.",
+      "La alimentación consciente implica:\n-Considerar el espectro completo de la comida: de dónde proviene; cómo se preparó y quién la preparó;\n-notar señales internas y externas que afectan la cantidad que comemos;\n-observar cómo se ve, sabe, huele y siente la comida en nuestro cuerpo mientras comemos;\n-reconocer cómo se siente el cuerpo después de comer;\n-expresar gratitud por la comida;\n-reflexionar sobre cómo nuestras elecciones alimenticias afectan nuestro entorno local y global.",
       "Complementar al Mindful eating, la Educación Nutricional desempeña un papel crucial en la prevención de enfermedades relacionadas con la dieta, como la diabetes y la obesidad. Al promover una alimentación consciente y equilibrada, se contribuye a forjar hábitos saludables que perduran a lo largo de la vida. Los programas educativos pueden abordar no solo el qué, sino también el cómo comemos, fomentando prácticas como comer lentamente, disfrutar de cada bocado y reconocer las señales de saciedad. En el contexto actual, donde la información sobre nutrición puede resultar abrumadora, la educación nutricional se convierte en un faro guía. Aprender a discernir entre mitos y hechos nutricionales es esencial para evitar la desinformación y tomar decisiones conscientes. Los beneficios de la educación nutricional se extienden más allá del individuo, impactando positivamente en la salud comunitaria y, en última instancia, en la sociedad en su conjunto. La educación nutricional emerge como un pilar fundamental en la búsqueda de un bienestar integral. Este proceso no solo implica transmitir conocimientos sobre los grupos alimenticios y las propiedades nutricionales, sino también cultivar una relación saludable con la comida. La importancia de la educación nutricional radica en su capacidad para empoderar a las personas, brindándoles las herramientas necesarias para tomar decisiones informadas sobre su alimentación."
     ],
     "conclusione": "La alimentación consciente no pretende reemplazar tratamientos para condiciones clínicas severas como trastornos alimentarios. Sin embargo, al combinarla con estrategias conductuales y conocimientos nutricionales, puede ser una herramienta valiosa para reducir el riesgo de enfermedades crónicas, mejorar la experiencia alimentaria y fomentar una imagen corporal saludable.",

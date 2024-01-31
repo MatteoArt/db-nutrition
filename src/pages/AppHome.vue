@@ -96,7 +96,7 @@ export default {
                             {{ card.description }}
                         </p>
                         <div class="mt-auto">
-                            <router-link :to="{ name: 'single-article', params: { id: card.id } }"
+                            <router-link :to="{ name: 'single-article', params: { slug: card.slug } }"
                                 class="btn btn-outline-success rounded-pill">
                                 <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> Descubre mas
                             </router-link>
