@@ -35,8 +35,8 @@ export default {
 <template>
     <div class="container-fluid ms-2 mt-4 pe-5">
         <div class="d-flex justify-content-end mb-3">
-            <router-link :to="{ name: 'articles' }" class="btn btn-outline-warning rounded-pill">
-                <i class="fa-solid fa-arrow-left" style="margin-right: 8px;"></i> Vuelve atras
+            <router-link :to="{ name: 'articles' }" class="btn btn-outline-warning rounded-pill d-flex align-items-center">
+                <i class="fa-solid fa-arrow-left" style="margin-right: 8px;"></i> <span>Vuelve atras</span>
             </router-link>
         </div>
         <h2>{{ singleArticle.title }}</h2>

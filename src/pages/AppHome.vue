@@ -95,10 +95,10 @@ export default {
                         <p class="card-text mt-3">
                             {{ card.description }}
                         </p>
-                        <div class="mt-auto">
+                        <div class="mt-auto d-flex">
                             <router-link :to="{ name: 'single-article', params: { slug: card.slug } }"
-                                class="btn btn-outline-success rounded-pill">
-                                <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> Descubre mas
+                                class="btn btn-outline-success rounded-pill d-flex align-items-center">
+                                <i class="fa-solid fa-arrow-right" style="margin-right: 8px;"></i> <span>Descubre mas</span>
                             </router-link>
                         </div>
                     </div>

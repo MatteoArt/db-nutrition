@@ -22,6 +22,6 @@
 <style>
 
 main {
-	margin-top: 170px;
+	margin-top: 50px;
 }
 </style>

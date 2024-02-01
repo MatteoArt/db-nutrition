@@ -4,7 +4,7 @@ export default {
         return {
             navLinks: [
                 {
-                    link: 'Inicio',
+                    link: 'Home',
                     link_name: 'home'
                 },
                 {
@@ -49,7 +49,7 @@ export default {
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
             <span v-for="social in socials">
                 <router-link v-if="social.icon=='logo-sito.png'" class="navbar-brand" :to="{ name: social.link }">
@@ -67,7 +67,8 @@ export default {
                 <ul class="navbar-nav">
                     <li class="nav-item" v-for="link in navLinks">
                         <router-link :to="{ name: link.link_name }" class="nav-link"
-                        :class="$route.name == link.link_name ? 'active' : ''">
+                        :class="$route.name == link.link_name ? 'active' : ''"
+                        v-bind:class="link.link == 'Home' ? 'notranslate' : ''">
                             {{ link.link }}
                         </router-link>
                     </li>

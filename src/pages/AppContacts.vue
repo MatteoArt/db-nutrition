@@ -26,7 +26,7 @@ export default {
                 </p>
             </div>
         </div>
-        <div class="my-margin d-inline-block text-center">
+        <div class="d-block my-margin text-center">
             <i class="fa-brands fa-whatsapp wa-icon"></i>
             <div>
                 <a href="https://wa.me/c/34685258938" class="fs-3" target="_blank">+34 685258938</a>
@@ -43,8 +43,7 @@ export default {
 }
 
 .my-margin {
-    margin-top: 100px;
-    margin-left: 0;
+    margin: 100px auto 0;
 }
 
 .my-margin-2 {
@@ -57,10 +56,6 @@ export default {
 }
 
 @media screen and (min-width: 576px) {
-    .my-margin {
-        margin-top: 100px;
-        margin-left: 280px;
-    }
 
     .my-margin-2 {
         margin-top: 0;
