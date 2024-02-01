@@ -11,7 +11,7 @@ export default {
         <div class="row">
             <div class="col-sm-6">
                 <h4 class="text-start">Nexesalut</h4>
-                <img src="../assets/nexesalut.png" class="img-fluid h-100 object-fit-cover" alt="nexesalut"
+                <img src="/nexesalut.png" class="img-fluid h-100 object-fit-cover" alt="nexesalut"
                     title="Nexesalut">
                 <p class="my-font-small">
                     Nexesalut, C/ Gran De Gràcia 56 1er 1ª, Barcellona, Catalogna, Spagna
@@ -19,7 +19,7 @@ export default {
             </div>
             <div class="col-sm-6 my-margin-2">
                 <h4 class="text-start">Osteo Wellness Studio</h4>
-                <img src="../assets/osteowellness.png" class="img-fluid h-100 object-fit-cover" alt="osteowellness"
+                <img src="/osteowellness.png" class="img-fluid h-100 object-fit-cover" alt="osteowellness"
                     title="Osteo Wellness Studio">
                 <p class="my-font-small">
                     Ronda de San Pedro 40, 08010, Barcelona (Cataluña)
