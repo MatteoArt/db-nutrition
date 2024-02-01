@@ -82,7 +82,7 @@ export default {
             </div>
         </div>
     </div>
-    <div class="container w-75 mx-auto mt-4 mb-3">
+    <div class="container-md mx-auto mt-4 mb-3">
         <h2 class="text-center pb-2">Ultimos articulos</h2>
         <div class="row row-gap-3">
             <div class="col-md-6" v-for="card in lastTwoArticles()">

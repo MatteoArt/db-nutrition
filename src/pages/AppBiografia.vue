@@ -6,10 +6,10 @@ export default {
 </script>
 
 <template>
-    <div class="container w-75 m-auto mt-5">
+    <div class="container-md m-auto mt-5">
         <div class="row">
             <div class="col-12">
-                <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+                <div class="h-100 p-2 p-lg-5 bg-body-tertiary border rounded-3">
                     <h2 class="mb-3">Quién es el dietista-nutricionista?</h2>
                     <p>
                         Un dietista-nutricionista es un experto sanitario dedicado a analizar y optimizar la dieta y la
@@ -30,11 +30,11 @@ export default {
                         que desempeña un papel crucial a la hora de orientar a las personas hacia opciones alimentarias más
                         sanas y sostenibles.
                     </p>
-                    <div class="d-flex gap-4 mt-5">
+                    <div class="d-md-flex gap-4 mt-5">
                         <div class="img-container">
                             <img src="../assets/biography.jpeg" class="img-fluid" alt="bio">
                         </div>
-                        <div class="img-container">
+                        <div class="img-container mt-2 mt-md-0">
                             <img src="../assets/biography1.jpeg" class="img-fluid" alt="bio1">
                         </div>
                     </div>

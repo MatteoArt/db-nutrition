@@ -37,7 +37,7 @@ export default {
                     this.paroleTrovate.push(article[i].description);
                 }
             }
-            
+
             setTimeout(() => {
                 for (const nameTag in this.$refs) {
                     console.log(`${nameTag}: ${this.$refs[nameTag]}`)
@@ -66,10 +66,9 @@ export default {
     <h1 class="text-center">Articulos</h1>
     <div>
         <div class="m-auto d-flex justify-content-center" style="width: 250px;">
-            <input class="form-control border-end-0 rounded-end-0" 
-            type="text" placeholder="buscar..." v-model="searchForm" @keyup.enter="searchTxt">
-            <span class="my-button border border-start-0 d-flex align-items-center px-3 rounded-end-2"
-            @click="searchTxt">
+            <input class="form-control border-end-0 rounded-end-0" type="text" placeholder="buscar..." v-model="searchForm"
+                @keyup.enter="searchTxt">
+            <span class="my-button border border-start-0 d-flex align-items-center px-3 rounded-end-2" @click="searchTxt">
                 <i class="fa-solid fa-magnifying-glass"></i>
             </span>
         </div>
@@ -77,21 +76,22 @@ export default {
 
     <div class="container mx-auto mt-4 mb-3">
         <div class="row row-gap-3">
-            <div class="col-md-6" v-for="(article , i) in articlesList">
+            <div class="col-md-6" v-for="(article, i) in articlesList">
                 <div class="card h-100">
                     <div class="my-img-container">
                         <img :src="getImagePath(article.img)" class="card-img-top" alt="img_info">
                     </div>
                     <div class="card-body d-flex flex-column">
                         <h5 v-if="paroleTrovate.includes(article.title)" class="card-title fw-semibold"
-                        :ref="paroleTrovate[paroleTrovate.length-1] == article.title ? 'finalTitle' : `title${i}`"> 
-                            <span class="bg-warning-subtle"> <span style="z-index: 10;position: relative;">{{ article.title }}</span> </span> 
+                            :ref="paroleTrovate[paroleTrovate.length - 1] == article.title ? 'finalTitle' : `title${i}`">
+                            <span class="bg-warning-subtle"> <span style="z-index: 10;position: relative;">{{ article.title
+                            }}</span> </span>
                         </h5>
                         <h5 v-else class="card-title fw-semibold">
                             {{ article.title }}
                         </h5>
                         <p v-if="paroleTrovate.includes(article.description)" class="card-text mt-3"
-                        :ref="paroleTrovate[paroleTrovate.length-1] == article.description ? 'finalDescription' : `description${i}`">
+                            :ref="paroleTrovate[paroleTrovate.length - 1] == article.description ? 'finalDescription' : `description${i}`">
                             <span class="bg-warning-subtle"> {{ article.description }} </span>
                         </p>
                         <p v-else class="card-text mt-3">
@@ -112,16 +112,20 @@ export default {
 
 
 <style scoped>
-.my-img-container {
-    height: 272px;
-    overflow: hidden;
-}
 input::placeholder {
     text-align: center;
     color: rgb(166, 166, 166);
 }
+
 .my-button {
     color: rgb(166, 166, 166);
     cursor: pointer;
+}
+
+@media screen and (min-width: 992px) {
+    .my-img-container {
+        height: 215px;
+        overflow: hidden;
+    }
 }
 </style>

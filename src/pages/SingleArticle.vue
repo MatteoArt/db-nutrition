@@ -41,7 +41,7 @@ export default {
         </div>
         <h2>{{ singleArticle.title }}</h2>
         <p>{{ singleArticle.description }}</p>
-        <div class="w-50 my-container-img">
+        <div class="my-width my-container-img">
             <img :src="getImagePath(singleArticle.img)" class="img-fluid" alt="cover-article">
         </div>
         <p v-for="point in singleArticle.article_points" class="mb-2" style="white-space: pre-line;">{{ point }}</p>
@@ -56,11 +56,21 @@ export default {
 </template>
 
 <style scoped>
+
+.my-width {
+    width: 100%;
+}
 .my-container-img {
     margin-bottom: 45px;
 }
 
 .desc {
     margin-left: calc(10px + 0.5rem);
+}
+
+@media screen and (min-width: 768px) {
+    .my-width {
+        width: 75%;
+    }
 }
 </style>
